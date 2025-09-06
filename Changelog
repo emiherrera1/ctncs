@@ -1,0 +1,15 @@
+# CTNCS Changelog
+
+## v1.0 — September 2025
+- Initial public release of CTNCS
+- Includes all 5 levels:
+  - 15 Sectors (Level 1)
+  - 52 Categories (Level 2)
+  - 100+ Niches (Level 3)
+  - 190+ Content Styles (Level 4)
+  - 60+ Format Types (Level 5)
+- Published in three formats:
+  - CSV (`CTNCS_Codebook_v1.0_github.csv`)
+  - TSV (`CTNCS_Codebook_v1.0_github.tsv`)
+  - JSON (`CTNCS_Codebook_v1.0_hier.json`)
+- Licensed under Creative Commons Attribution 4.0 (CC BY 4.0)
