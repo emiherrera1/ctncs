@@ -39,7 +39,6 @@ CTNCS is a six-level hierarchical taxonomy built to classify digital content uni
 
 ## Example CTNCS ID
 
-```text
 03.09.06.04.02
 Segment	Meaning
 03	Lifestyle (Sector)
@@ -59,9 +58,13 @@ parent_code is the immediate ancestor’s code, created by truncating the last s
 
 This design allows CTNCS to be distributed as a flat file while preserving its hierarchy.
 
+---
+
 ## How to Cite CTNCS
 Herrera, Emily. CTNCS: Content Terminal Niche Classification Standard. v1.0 (2025).
 Creative Commons Attribution 4.0. https://ctncs.system
+
+---
 
 ## License
 This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
