@@ -48,6 +48,8 @@ Segment	Meaning
 04	Fast Food Challenge
 02	Compilation
 
+---
+
 ## Code vs. Parent Code
 In the published CSV/TSV files, each row has both a code and a parent_code.
 
