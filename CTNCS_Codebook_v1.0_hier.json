@@ -1,0 +1,3865 @@
+{
+  "taxonomy_version": "1.0",
+  "root": [
+    {
+      "code": "01",
+      "label": "Entertainment",
+      "level": 1,
+      "definition": "Narrative-first content meant to amuse, engage, or emotionally hook. Includes skits, dramas, pop culture, celebrity content."
+    },
+    {
+      "code": "02",
+      "label": "Education",
+      "level": 1,
+      "definition": "Purpose is to teach, explain, or transfer skills. Includes tutorials, explainers, language learning, academic breakdowns."
+    },
+    {
+      "code": "03",
+      "label": "Lifestyle",
+      "level": 1,
+      "definition": "Personal identity content: routines, fashion, food, home, beauty. Often vlog-style or advice-driven."
+    },
+    {
+      "code": "04",
+      "label": "Technology",
+      "level": 1,
+      "definition": "Covers tools, software, hardware, AI, reviews, product demos. Can be consumer or technical in scope."
+    },
+    {
+      "code": "05",
+      "label": "News & Commentary",
+      "level": 1,
+      "definition": "Discusses current events, politics, cultural takes. Includes both factual updates and subjective analysis."
+    },
+    {
+      "code": "06",
+      "label": "Creative Arts",
+      "level": 1,
+      "definition": "Expression-first content: music, performance, drawing, animation, poetry, design. Often overlaps with entertainment but prioritizes craft."
+    },
+    {
+      "code": "07",
+      "label": "Gaming",
+      "level": 1,
+      "definition": "Game-focused content: let’s plays, walkthroughs, esports, game reviews. May include cultural commentary through games."
+    },
+    {
+      "code": "08",
+      "label": "Business & Finance",
+      "level": 1,
+      "definition": "Work, money, entrepreneurship. Includes investing, startup advice, product strategy, consumer behavior."
+    },
+    {
+      "code": "09",
+      "label": "Health & Wellness",
+      "level": 1,
+      "definition": "Physical and mental wellness: workouts, therapy, routines, food as function, sleep, self-care."
+    },
+    {
+      "code": "10",
+      "label": "Social & Community",
+      "level": 1,
+      "definition": "Content centered on identity, advocacy, social groups, activism, and shared values or struggles."
+    },
+    {
+      "code": "11",
+      "label": "Sports",
+      "level": 1,
+      "definition": "Physical competition and athleticism: analysis, fan content, technique breakdowns, team culture."
+    },
+    {
+      "code": "12",
+      "label": "Pets & Animals",
+      "level": 1,
+      "definition": "Content featuring or focused on animals. Can be humorous, educational, or care-oriented."
+    }
+  ],
+  "children": {
+    "": [
+      {
+        "code": "01",
+        "label": "Entertainment",
+        "level": 1,
+        "definition": "Narrative-first content meant to amuse, engage, or emotionally hook. Includes skits, dramas, pop culture, celebrity content."
+      },
+      {
+        "code": "02",
+        "label": "Education",
+        "level": 1,
+        "definition": "Purpose is to teach, explain, or transfer skills. Includes tutorials, explainers, language learning, academic breakdowns."
+      },
+      {
+        "code": "03",
+        "label": "Lifestyle",
+        "level": 1,
+        "definition": "Personal identity content: routines, fashion, food, home, beauty. Often vlog-style or advice-driven."
+      },
+      {
+        "code": "04",
+        "label": "Technology",
+        "level": 1,
+        "definition": "Covers tools, software, hardware, AI, reviews, product demos. Can be consumer or technical in scope."
+      },
+      {
+        "code": "05",
+        "label": "News & Commentary",
+        "level": 1,
+        "definition": "Discusses current events, politics, cultural takes. Includes both factual updates and subjective analysis."
+      },
+      {
+        "code": "06",
+        "label": "Creative Arts",
+        "level": 1,
+        "definition": "Expression-first content: music, performance, drawing, animation, poetry, design. Often overlaps with entertainment but prioritizes craft."
+      },
+      {
+        "code": "07",
+        "label": "Gaming",
+        "level": 1,
+        "definition": "Game-focused content: let’s plays, walkthroughs, esports, game reviews. May include cultural commentary through games."
+      },
+      {
+        "code": "08",
+        "label": "Business & Finance",
+        "level": 1,
+        "definition": "Work, money, entrepreneurship. Includes investing, startup advice, product strategy, consumer behavior."
+      },
+      {
+        "code": "09",
+        "label": "Health & Wellness",
+        "level": 1,
+        "definition": "Physical and mental wellness: workouts, therapy, routines, food as function, sleep, self-care."
+      },
+      {
+        "code": "10",
+        "label": "Social & Community",
+        "level": 1,
+        "definition": "Content centered on identity, advocacy, social groups, activism, and shared values or struggles."
+      },
+      {
+        "code": "11",
+        "label": "Sports",
+        "level": 1,
+        "definition": "Physical competition and athleticism: analysis, fan content, technique breakdowns, team culture."
+      },
+      {
+        "code": "12",
+        "label": "Pets & Animals",
+        "level": 1,
+        "definition": "Content featuring or focused on animals. Can be humorous, educational, or care-oriented."
+      }
+    ],
+    "01": [
+      {
+        "code": "01.01",
+        "label": "Movies & TV",
+        "level": 2,
+        "definition": "Narrative content about scripted entertainment — includes reviews, recaps, breakdowns, and lore analysis."
+      },
+      {
+        "code": "01.02",
+        "label": "Comedy",
+        "level": 2,
+        "definition": "Humor-forward content designed to entertain through skits, satire, parody, improv, or stand-up."
+      },
+      {
+        "code": "01.03",
+        "label": "Music & Performance",
+        "level": 2,
+        "definition": "Live or recorded expression through music, dance, acting, or talent-based performance."
+      }
+    ],
+    "01.01": [
+      {
+        "code": "01.01.01",
+        "label": "Film Reviews",
+        "level": 3,
+        "definition": "Critiques or analyzes films with a focus on storytelling, cinematography, themes, or cultural relevance."
+      },
+      {
+        "code": "01.01.02",
+        "label": "TV Recaps",
+        "level": 3,
+        "definition": "Summarizes, comments on, or dissects episodes or arcs from scripted television series."
+      }
+    ],
+    "01.01.01": [
+      {
+        "code": "01.01.01.01",
+        "label": "Blockbuster Critiques",
+        "level": 4,
+        "definition": "Analyzes major studio films with a focus on story, spectacle, and cultural relevance."
+      },
+      {
+        "code": "01.01.01.02",
+        "label": "Indie Film Analysis",
+        "level": 4,
+        "definition": "Explores indie cinema through critical reflection, narrative themes, and artistic style."
+      }
+    ],
+    "01.01.01.01": [
+      {
+        "code": "01.01.01.01.41",
+        "label": "Reviews",
+        "level": 5,
+        "definition": "Evaluates and shares opinions on a product, service, or media item."
+      }
+    ],
+    "01.01.01.02": [
+      {
+        "code": "01.01.01.02.15",
+        "label": "Explained",
+        "level": 5,
+        "definition": "Simplifies a topic or concept through accessible language and examples."
+      },
+      {
+        "code": "01.01.01.02.24",
+        "label": "Lists",
+        "level": 5,
+        "definition": "Presents a ranked or grouped set of recommendations, facts, or ideas."
+      }
+    ],
+    "01.01.02": [
+      {
+        "code": "01.01.02.03",
+        "label": "Episode Summaries",
+        "level": 4,
+        "definition": "Summarizes episodes through plot breakdowns, character arcs, and major developments."
+      },
+      {
+        "code": "01.01.02.04",
+        "label": "Season Highlights",
+        "level": 4,
+        "definition": "Highlights seasonal arcs or finales with emphasis on narrative payoff or fan impact."
+      }
+    ],
+    "01.01.02.03": [
+      {
+        "code": "01.01.02.03.38",
+        "label": "Recap",
+        "level": 5,
+        "definition": "Summarizes key events, lessons, or takeaways from a larger experience or episode."
+      },
+      {
+        "code": "01.01.02.03.59",
+        "label": "Vlogs",
+        "level": 5,
+        "definition": "Captures daily life, travel, or thought processes in a casual, documentary style."
+      }
+    ],
+    "01.01.02.04": [
+      {
+        "code": "01.01.02.04.22",
+        "label": "Highlight",
+        "level": 5,
+        "definition": "Shows standout or peak moments from a longer piece of content or event."
+      },
+      {
+        "code": "01.01.02.04.27",
+        "label": "Montage",
+        "level": 5,
+        "definition": "A fast-paced edit showing a sequence of related visuals or actions, often set to music."
+      }
+    ],
+    "01.02": [
+      {
+        "code": "01.02.03",
+        "label": "Skits",
+        "level": 3,
+        "definition": "Performs short, scripted scenes for humor or storytelling, often shared as standalone sketches."
+      },
+      {
+        "code": "01.02.04",
+        "label": "Stand-Up",
+        "level": 3,
+        "definition": "Solo comedic performances delivered to a live or virtual audience, often observational or narrative in tone."
+      }
+    ],
+    "01.02.03": [
+      {
+        "code": "01.02.03.05",
+        "label": "Short-Form Sketches",
+        "level": 4,
+        "definition": "Short scripted comedy or narrative sketches designed for quick, shareable impact."
+      },
+      {
+        "code": "01.02.03.06",
+        "label": "Improv Scenes",
+        "level": 4,
+        "definition": "Improvised comedy content featuring spontaneous dialogue and unpredictable scenarios."
+      }
+    ],
+    "01.02.03.06": [
+      {
+        "code": "01.02.03.06.03",
+        "label": "Behind-the-Scenes",
+        "level": 5,
+        "definition": "Reveals the process or preparation behind a finished product or performance."
+      },
+      {
+        "code": "01.02.03.06.25",
+        "label": "Live",
+        "level": 5,
+        "definition": "Content streamed in real-time, often interactive or unedited."
+      }
+    ],
+    "01.02.04": [
+      {
+        "code": "01.02.04.07",
+        "label": "Live Routines",
+        "level": 4,
+        "definition": "Captures live comedic or performative routines, often in stand-up or stage settings."
+      },
+      {
+        "code": "01.02.04.08",
+        "label": "Comedy Specials",
+        "level": 4,
+        "definition": "Long-form recorded comedy specials with structured pacing and audience engagement."
+      }
+    ],
+    "01.02.04.07": [
+      {
+        "code": "01.02.04.07.25",
+        "label": "Live",
+        "level": 5,
+        "definition": "Content streamed in real-time, often interactive or unedited."
+      },
+      {
+        "code": "01.02.04.07.36",
+        "label": "Rant",
+        "level": 5,
+        "definition": "Expresses strong opinion or frustration in an unfiltered, emotional format."
+      }
+    ],
+    "01.02.04.08": [
+      {
+        "code": "01.02.04.08.33",
+        "label": "Podcasts",
+        "level": 5,
+        "definition": "Long-form audio or video conversations, usually structured around topics or guests."
+      },
+      {
+        "code": "01.02.04.08.41",
+        "label": "Reviews",
+        "level": 5,
+        "definition": "Evaluates and shares opinions on a product, service, or media item."
+      }
+    ],
+    "01.03": [
+      {
+        "code": "01.03.05",
+        "label": "Music Videos",
+        "level": 3,
+        "definition": "Music paired with visual storytelling or aesthetic presentation for artistic or promotional purposes."
+      },
+      {
+        "code": "01.03.06",
+        "label": "Live Performances",
+        "level": 3,
+        "definition": "Live or recorded artistic showcases of music, theater, dance, or performance-based disciplines."
+      }
+    ],
+    "01.03.05": [
+      {
+        "code": "01.03.05.09",
+        "label": "Pop Releases",
+        "level": 4,
+        "definition": "Showcases professionally released music content for mainstream distribution."
+      },
+      {
+        "code": "01.03.05.10",
+        "label": "Indie Clips",
+        "level": 4,
+        "definition": "Highlights independently produced music videos or audio-visual experiments."
+      }
+    ],
+    "01.03.05.09": [
+      {
+        "code": "01.03.05.09.27",
+        "label": "Montage",
+        "level": 5,
+        "definition": "A fast-paced edit showing a sequence of related visuals or actions, often set to music."
+      }
+    ],
+    "01.03.05.10": [
+      {
+        "code": "01.03.05.10.14",
+        "label": "DIY",
+        "level": 5,
+        "definition": "Demonstrates how a product or process works, often in real-time."
+      },
+      {
+        "code": "01.03.05.10.46",
+        "label": "Showcase",
+        "level": 5,
+        "definition": "Displays the features or value of a single product, creation, or talent."
+      }
+    ],
+    "01.03.06": [
+      {
+        "code": "01.03.06.11",
+        "label": "Concert Footage",
+        "level": 4,
+        "definition": "Features footage from concerts, festivals, or live musical events with audience engagement."
+      },
+      {
+        "code": "01.03.06.12",
+        "label": "Street Shows",
+        "level": 4,
+        "definition": "Street-level performances including dance, theater, or busking recorded in public spaces."
+      }
+    ],
+    "01.03.06.11": [
+      {
+        "code": "01.03.06.11.22",
+        "label": "Highlight",
+        "level": 5,
+        "definition": "Shows standout or peak moments from a longer piece of content or event."
+      },
+      {
+        "code": "01.03.06.11.25",
+        "label": "Live",
+        "level": 5,
+        "definition": "Content streamed in real-time, often interactive or unedited."
+      }
+    ],
+    "01.03.06.12": [
+      {
+        "code": "01.03.06.12.30",
+        "label": "Performance",
+        "level": 5,
+        "definition": "Content where the creator performs music, art, theater, or physical feats for the audience."
+      },
+      {
+        "code": "01.03.06.12.59",
+        "label": "Vlogs",
+        "level": 5,
+        "definition": "Captures daily life, travel, or thought processes in a casual, documentary style."
+      }
+    ],
+    "02": [
+      {
+        "code": "02.04",
+        "label": "Academic",
+        "level": 2,
+        "definition": "Formal subject matter rooted in school or university disciplines — often structured and instructional."
+      },
+      {
+        "code": "02.05",
+        "label": "Skills & DIY",
+        "level": 2,
+        "definition": "Instructional content teaching practical, hands-on tasks like repairs, crafts, or creative builds."
+      },
+      {
+        "code": "02.06",
+        "label": "Science & Discovery",
+        "level": 2,
+        "definition": "Content exploring physical, natural, or theoretical phenomena with curiosity and explanation."
+      }
+    ],
+    "02.04": [
+      {
+        "code": "02.04.07",
+        "label": "Math Lessons",
+        "level": 3,
+        "definition": "Teaches math concepts or problem-solving using clear, step-by-step visual instruction."
+      },
+      {
+        "code": "02.04.08",
+        "label": "History Lessons",
+        "level": 3,
+        "definition": "Explains historical events, timelines, figures, or cultural eras through narrative or analysis."
+      }
+    ],
+    "02.04.07": [
+      {
+        "code": "02.04.07.13",
+        "label": "Algebra Basics",
+        "level": 4,
+        "definition": "Simplifies core algebra concepts using visuals and real-world examples for beginner learners."
+      },
+      {
+        "code": "02.04.07.14",
+        "label": "Calculus Concepts",
+        "level": 4,
+        "definition": "Introduces calculus principles like derivatives and integrals through conceptual breakdowns."
+      }
+    ],
+    "02.04.07.13": [
+      {
+        "code": "02.04.07.13.15",
+        "label": "Explained",
+        "level": 5,
+        "definition": "Simplifies a topic or concept through accessible language and examples."
+      },
+      {
+        "code": "02.04.07.13.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      }
+    ],
+    "02.04.07.14": [
+      {
+        "code": "02.04.07.14.19",
+        "label": "Guide",
+        "level": 5,
+        "definition": "Walks the viewer through a task, platform, or system in a structured format."
+      },
+      {
+        "code": "02.04.07.14.35",
+        "label": "Q&A",
+        "level": 5,
+        "definition": "Answers audience-submitted or pre-generated questions in a conversational tone."
+      }
+    ],
+    "02.04.08": [
+      {
+        "code": "02.04.08.15",
+        "label": "Ancient Civilizations",
+        "level": 4,
+        "definition": "Presents historical timelines, leaders, and civilizations through artifacts and analysis."
+      },
+      {
+        "code": "02.04.08.16",
+        "label": "Modern Events",
+        "level": 4,
+        "definition": "Explains recent historical developments and their impact on contemporary society."
+      }
+    ],
+    "02.04.08.15": [
+      {
+        "code": "02.04.08.15.29",
+        "label": "Overview",
+        "level": 5,
+        "definition": "Presents a broad explanation of a topic, usually without deep technical detail."
+      },
+      {
+        "code": "02.04.08.15.48",
+        "label": "Storytime",
+        "level": 5,
+        "definition": "Shares a personal or fictional narrative with a hook, pacing, and emotional arc."
+      }
+    ],
+    "02.04.08.16": [
+      {
+        "code": "02.04.08.16.04",
+        "label": "Breakdown",
+        "level": 5,
+        "definition": "Dissects a topic into parts for clarity, often using visuals or step-by-step commentary."
+      },
+      {
+        "code": "02.04.08.16.58",
+        "label": "Update",
+        "level": 5,
+        "definition": "Provides a status report or change log on an ongoing story, project, or journey."
+      }
+    ],
+    "02.05": [
+      {
+        "code": "02.05.09",
+        "label": "Coding Tutorials",
+        "level": 3,
+        "definition": "Tutorials or walkthroughs that teach how to code, build, or deploy software applications."
+      },
+      {
+        "code": "02.05.10",
+        "label": "Crafting Guides",
+        "level": 3,
+        "definition": "Instructional content showing how to create objects, crafts, or handmade products step by step."
+      }
+    ],
+    "02.05.09": [
+      {
+        "code": "02.05.09.17",
+        "label": "Web Development",
+        "level": 4,
+        "definition": "Teaches how to build websites through HTML, CSS, and JavaScript foundations."
+      },
+      {
+        "code": "02.05.09.18",
+        "label": "App Coding",
+        "level": 4,
+        "definition": "Demonstrates mobile or cross-platform app creation from design to deployment."
+      }
+    ],
+    "02.05.09.17": [
+      {
+        "code": "02.05.09.17.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      },
+      {
+        "code": "02.05.09.17.60",
+        "label": "Walkthrough",
+        "level": 5,
+        "definition": "Leads the viewer through a process, system, or game with detailed explanation."
+      }
+    ],
+    "02.05.09.18": [
+      {
+        "code": "02.05.09.18.13",
+        "label": "Demo",
+        "level": 5,
+        "definition": "Explores a topic in high detail, usually beyond surface-level information."
+      },
+      {
+        "code": "02.05.09.18.52",
+        "label": "Tips",
+        "level": 5,
+        "definition": "Gives bite-sized advice or insights on how to improve in a given area."
+      }
+    ],
+    "02.05.10": [
+      {
+        "code": "02.05.10.19",
+        "label": "Woodworking",
+        "level": 4,
+        "definition": "Walks through hands-on woodworking projects from materials to finishing techniques."
+      },
+      {
+        "code": "02.05.10.20",
+        "label": "Sewing Projects",
+        "level": 4,
+        "definition": "Guides viewers through sewing construction, stitching techniques, and fabric selection."
+      }
+    ],
+    "02.05.10.19": [
+      {
+        "code": "02.05.10.19.14",
+        "label": "DIY",
+        "level": 5,
+        "definition": "Demonstrates how a product or process works, often in real-time."
+      },
+      {
+        "code": "02.05.10.19.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      }
+    ],
+    "02.05.10.20": [
+      {
+        "code": "02.05.10.20.19",
+        "label": "Guide",
+        "level": 5,
+        "definition": "Walks the viewer through a task, platform, or system in a structured format."
+      },
+      {
+        "code": "02.05.10.20.46",
+        "label": "Showcase",
+        "level": 5,
+        "definition": "Displays the features or value of a single product, creation, or talent."
+      }
+    ],
+    "02.06": [
+      {
+        "code": "02.06.11",
+        "label": "Space Exploration",
+        "level": 3,
+        "definition": "Explores human and robotic exploration of space, astronomy, or rocketry."
+      },
+      {
+        "code": "02.06.12",
+        "label": "Nature Studies",
+        "level": 3,
+        "definition": "Educational content on ecosystems, wildlife, and earth’s natural environments."
+      }
+    ],
+    "02.06.11": [
+      {
+        "code": "02.06.11.21",
+        "label": "Planetary Studies",
+        "level": 4,
+        "definition": "Explains the structure and movement of planets, moons, and solar system objects."
+      },
+      {
+        "code": "02.06.11.22",
+        "label": "Space Missions",
+        "level": 4,
+        "definition": "Covers technical details of crewed and robotic space missions, launches, and landings."
+      }
+    ],
+    "02.06.11.21": [
+      {
+        "code": "02.06.11.21.15",
+        "label": "Explained",
+        "level": 5,
+        "definition": "Simplifies a topic or concept through accessible language and examples."
+      },
+      {
+        "code": "02.06.11.21.58",
+        "label": "Update",
+        "level": 5,
+        "definition": "Provides a status report or change log on an ongoing story, project, or journey."
+      }
+    ],
+    "02.06.11.22": [
+      {
+        "code": "02.06.11.22.02",
+        "label": "Analysis",
+        "level": 5,
+        "definition": "Evaluates or interprets a subject through critical reasoning or structured breakdown."
+      },
+      {
+        "code": "02.06.11.22.38",
+        "label": "Recap",
+        "level": 5,
+        "definition": "Summarizes key events, lessons, or takeaways from a larger experience or episode."
+      }
+    ],
+    "02.06.12": [
+      {
+        "code": "02.06.12.23",
+        "label": "Wildlife Behavior",
+        "level": 4,
+        "definition": "Analyzes animal behavior, instincts, and interactions in their natural environments."
+      },
+      {
+        "code": "02.06.12.24",
+        "label": "Ecosystem Analysis",
+        "level": 4,
+        "definition": "Evaluates ecosystems by exploring species, terrain, climate, and environmental balance."
+      }
+    ],
+    "02.06.12.23": [
+      {
+        "code": "02.06.12.23.28",
+        "label": "Observation",
+        "level": 5,
+        "definition": "Content based on quiet or neutral watching — often animals, environments, or processes."
+      },
+      {
+        "code": "02.06.12.23.59",
+        "label": "Vlogs",
+        "level": 5,
+        "definition": "Captures daily life, travel, or thought processes in a casual, documentary style."
+      }
+    ],
+    "02.06.12.24": [
+      {
+        "code": "02.06.12.24.04",
+        "label": "Breakdown",
+        "level": 5,
+        "definition": "Dissects a topic into parts for clarity, often using visuals or step-by-step commentary."
+      },
+      {
+        "code": "02.06.12.24.06",
+        "label": "Case Study",
+        "level": 5,
+        "definition": "Presents a real-world example to explain how something worked or failed."
+      }
+    ],
+    "03": [
+      {
+        "code": "03.07",
+        "label": "Fitness",
+        "level": 2,
+        "definition": "Training-focused content covering workouts, form guides, performance tracking, and movement routines."
+      },
+      {
+        "code": "03.08",
+        "label": "Food & Cooking",
+        "level": 2,
+        "definition": "Content showcasing food prep, recipes, taste tests, cooking tips, and culinary storytelling."
+      },
+      {
+        "code": "03.09",
+        "label": "Fashion & Beauty",
+        "level": 2,
+        "definition": "Aesthetic-focused content including makeup tutorials, hauls, styling, skincare, and reviews."
+      }
+    ],
+    "03.07": [
+      {
+        "code": "03.07.13",
+        "label": "Yoga",
+        "level": 3,
+        "definition": "Guided practices or routines designed to improve flexibility, balance, or breath control."
+      },
+      {
+        "code": "03.07.14",
+        "label": "Strength Training",
+        "level": 3,
+        "definition": "Training routines designed to increase muscular strength, endurance, and performance."
+      }
+    ],
+    "03.07.13": [
+      {
+        "code": "03.07.13.25",
+        "label": "Beginner Flows",
+        "level": 4,
+        "definition": "Teaches introductory yoga movements and breathing with gentle pacing and alignment tips."
+      },
+      {
+        "code": "03.07.13.26",
+        "label": "Advanced Poses",
+        "level": 4,
+        "definition": "Focuses on advanced yoga sequences, transitions, and strength-based flexibility work."
+      }
+    ],
+    "03.07.13.25": [
+      {
+        "code": "03.07.13.25.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      },
+      {
+        "code": "03.07.13.25.59",
+        "label": "Vlogs",
+        "level": 5,
+        "definition": "Captures daily life, travel, or thought processes in a casual, documentary style."
+      }
+    ],
+    "03.07.13.26": [
+      {
+        "code": "03.07.13.26.52",
+        "label": "Tips",
+        "level": 5,
+        "definition": "Gives bite-sized advice or insights on how to improve in a given area."
+      }
+    ],
+    "03.07.14": [
+      {
+        "code": "03.07.14.27",
+        "label": "Weightlifting",
+        "level": 4,
+        "definition": "Demonstrates proper form and techniques in free weights and gym-based strength routines."
+      },
+      {
+        "code": "03.07.14.28",
+        "label": "Bodyweight Exercises",
+        "level": 4,
+        "definition": "Shows no-equipment exercises emphasizing core strength, mobility, and repetition sets."
+      }
+    ],
+    "03.07.14.27": [
+      {
+        "code": "03.07.14.27.19",
+        "label": "Guide",
+        "level": 5,
+        "definition": "Walks the viewer through a task, platform, or system in a structured format."
+      },
+      {
+        "code": "03.07.14.27.50",
+        "label": "Test",
+        "level": 5,
+        "definition": "Puts a product, method, or assumption through a structured trial to evaluate results."
+      }
+    ],
+    "03.07.14.28": [
+      {
+        "code": "03.07.14.28.16",
+        "label": "Experiment",
+        "level": 5,
+        "definition": "Tests a hypothesis or idea in real-time, usually with unexpected or educational results."
+      },
+      {
+        "code": "03.07.14.28.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      }
+    ],
+    "03.08": [
+      {
+        "code": "03.08.15",
+        "label": "Recipes",
+        "level": 3,
+        "definition": "Instructional cooking content showing how to make specific dishes or meals."
+      },
+      {
+        "code": "03.08.16",
+        "label": "Cooking Techniques",
+        "level": 3,
+        "definition": "Techniques, methods, or principles used to prepare food or refine cooking skills."
+      }
+    ],
+    "03.08.15": [
+      {
+        "code": "03.08.15.29",
+        "label": "Vegan Dishes",
+        "level": 4,
+        "definition": "Prepares plant-based meals using accessible ingredients and clean presentation."
+      },
+      {
+        "code": "03.08.15.30",
+        "label": "Quick Meals",
+        "level": 4,
+        "definition": "Demonstrates meals that can be prepared in 30 minutes or less for time-conscious audiences."
+      }
+    ],
+    "03.08.15.29": [
+      {
+        "code": "03.08.15.29.39",
+        "label": "Recipes",
+        "level": 5,
+        "definition": "Teaches how to prepare a specific dish with ingredients, steps, and tips."
+      },
+      {
+        "code": "03.08.15.29.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      }
+    ],
+    "03.08.15.30": [
+      {
+        "code": "03.08.15.30.20",
+        "label": "Hack",
+        "level": 5,
+        "definition": "Shows a shortcut or unconventional method to achieve a result quickly or efficiently."
+      },
+      {
+        "code": "03.08.15.30.52",
+        "label": "Tips",
+        "level": 5,
+        "definition": "Gives bite-sized advice or insights on how to improve in a given area."
+      }
+    ],
+    "03.08.16": [
+      {
+        "code": "03.08.16.31",
+        "label": "Baking Skills",
+        "level": 4,
+        "definition": "Demonstrates baking techniques including dough prep, timing, decoration, and ingredient handling."
+      },
+      {
+        "code": "03.08.16.32",
+        "label": "Grilling Tips",
+        "level": 4,
+        "definition": "Offers instruction or techniques for grilling meat, vegetables, or specialty items over open flame or heat"
+      }
+    ],
+    "03.08.16.31": [
+      {
+        "code": "03.08.16.31.13",
+        "label": "Demo",
+        "level": 5,
+        "definition": "Explores a topic in high detail, usually beyond surface-level information."
+      },
+      {
+        "code": "03.08.16.31.19",
+        "label": "Guide",
+        "level": 5,
+        "definition": "Walks the viewer through a task, platform, or system in a structured format."
+      }
+    ],
+    "03.08.16.32": [
+      {
+        "code": "03.08.16.32.52",
+        "label": "Tips",
+        "level": 5,
+        "definition": "Gives bite-sized advice or insights on how to improve in a given area."
+      },
+      {
+        "code": "03.08.16.32.59",
+        "label": "Vlogs",
+        "level": 5,
+        "definition": "Captures daily life, travel, or thought processes in a casual, documentary style."
+      }
+    ],
+    "03.09": [
+      {
+        "code": "03.09.17",
+        "label": "Makeup Tutorials",
+        "level": 3,
+        "definition": "Step-by-step beauty tutorials, often focused on application, technique, or transformation."
+      },
+      {
+        "code": "03.09.18",
+        "label": "Fashion Trends",
+        "level": 3,
+        "definition": "Content about seasonal, cultural, or community trends in personal style or appearance."
+      }
+    ],
+    "03.09.17": [
+      {
+        "code": "03.09.17.33",
+        "label": "Daily Looks",
+        "level": 4,
+        "definition": "Shares informal, everyday outfit or beauty styling with a focus on approachability and authenticity."
+      },
+      {
+        "code": "03.09.17.34",
+        "label": "Special Effects",
+        "level": 4,
+        "definition": "Highlights dramatic or fantasy-oriented beauty transformations using FX makeup or prosthetics."
+      }
+    ],
+    "03.09.17.33": [
+      {
+        "code": "03.09.17.33.55",
+        "label": "Try-On",
+        "level": 5,
+        "definition": "Models clothing or accessories while commenting on fit, feel, or quality."
+      },
+      {
+        "code": "03.09.17.33.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      }
+    ],
+    "03.09.17.34": [
+      {
+        "code": "03.09.17.34.13",
+        "label": "Demo",
+        "level": 5,
+        "definition": "Explores a topic in high detail, usually beyond surface-level information."
+      }
+    ],
+    "03.09.18": [
+      {
+        "code": "03.09.18.35",
+        "label": "Streetwear",
+        "level": 4,
+        "definition": "Covers urban fashion trends rooted in youth culture, sneakers, skatewear, or music scenes."
+      },
+      {
+        "code": "03.09.18.36",
+        "label": "High Fashion",
+        "level": 4,
+        "definition": "Showcases couture, editorial, and designer fashion with a focus on artistic presentation and runway aesthetics."
+      }
+    ],
+    "03.09.18.35": [
+      {
+        "code": "03.09.18.35.21",
+        "label": "Haul",
+        "level": 5,
+        "definition": "Displays and discusses items recently purchased, often with mini-reviews."
+      },
+      {
+        "code": "03.09.18.35.46",
+        "label": "Showcase",
+        "level": 5,
+        "definition": "Displays the features or value of a single product, creation, or talent."
+      }
+    ],
+    "03.09.18.36": [
+      {
+        "code": "03.09.18.36.41",
+        "label": "Reviews",
+        "level": 5,
+        "definition": "Evaluates and shares opinions on a product, service, or media item."
+      },
+      {
+        "code": "03.09.18.36.53",
+        "label": "Tour",
+        "level": 5,
+        "definition": "Takes the viewer through a space, platform, or experience step by step."
+      }
+    ],
+    "04": [
+      {
+        "code": "04.10",
+        "label": "Consumer Tech",
+        "level": 2,
+        "definition": "Reviews and usage of personal tech products like phones, gadgets, and wearables."
+      },
+      {
+        "code": "04.11",
+        "label": "Software & Coding",
+        "level": 2,
+        "definition": "Instructional or exploratory content focused on programming, debugging, and digital tools."
+      },
+      {
+        "code": "04.12",
+        "label": "Digital Culture",
+        "level": 2,
+        "definition": "Content that documents, reflects, or participates in platform-native trends, memes, or subcultures."
+      },
+      {
+        "code": "04.13",
+        "label": "Emerging Tech",
+        "level": 2,
+        "definition": "Content featuring experimental or high-growth technologies like AI, blockchain, and VR/AR."
+      }
+    ],
+    "04.10": [
+      {
+        "code": "04.10.19",
+        "label": "Gadget Reviews",
+        "level": 3,
+        "definition": "Reviews or comparisons of personal tech products like phones, laptops, or headphones."
+      },
+      {
+        "code": "04.10.20",
+        "label": "Smart Devices",
+        "level": 3,
+        "definition": "Content about connected or smart-enabled devices for home, productivity, or lifestyle."
+      }
+    ],
+    "04.10.19": [
+      {
+        "code": "04.10.19.37",
+        "label": "Smartphones",
+        "level": 4,
+        "definition": "Reviews or compares phone models, features, or accessories with a focus on consumer usability."
+      },
+      {
+        "code": "04.10.19.38",
+        "label": "Wearables",
+        "level": 4,
+        "definition": "Explores fitness trackers, smartwatches, and AR devices through demonstrations or performance tests."
+      }
+    ],
+    "04.10.19.37": [
+      {
+        "code": "04.10.19.37.41",
+        "label": "Reviews",
+        "level": 5,
+        "definition": "Evaluates and shares opinions on a product, service, or media item."
+      },
+      {
+        "code": "04.10.19.37.57",
+        "label": "Unboxing",
+        "level": 5,
+        "definition": "Opens and explores a new product, often with commentary on packaging and first impressions."
+      }
+    ],
+    "04.10.19.38": [
+      {
+        "code": "04.10.19.38.09",
+        "label": "Comparison",
+        "level": 5,
+        "definition": "Contrasts two or more options, tools, products, or perspectives."
+      },
+      {
+        "code": "04.10.19.38.18",
+        "label": "First Impressions",
+        "level": 5,
+        "definition": "Initial reactions to a new product, trend, or experience — usually unfiltered."
+      }
+    ],
+    "04.10.20": [
+      {
+        "code": "04.10.20.39",
+        "label": "Home Automation",
+        "level": 4,
+        "definition": "Demonstrates or reviews smart home systems like lighting, thermostats, or voice-controlled hubs."
+      },
+      {
+        "code": "04.10.20.40",
+        "label": "IoT Gadgets",
+        "level": 4,
+        "definition": "Explains interconnected smart devices and their functionality in home, work, or lifestyle applications."
+      }
+    ],
+    "04.10.20.39": [
+      {
+        "code": "04.10.20.39.45",
+        "label": "Setup",
+        "level": 5,
+        "definition": "Shows how tools, environments, or systems are arranged and optimized."
+      },
+      {
+        "code": "04.10.20.39.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      }
+    ],
+    "04.10.20.40": [
+      {
+        "code": "04.10.20.40.13",
+        "label": "Demo",
+        "level": 5,
+        "definition": "Explores a topic in high detail, usually beyond surface-level information."
+      },
+      {
+        "code": "04.10.20.40.20",
+        "label": "Hack",
+        "level": 5,
+        "definition": "Shows a shortcut or unconventional method to achieve a result quickly or efficiently."
+      }
+    ],
+    "04.11": [
+      {
+        "code": "04.11.21",
+        "label": "App Development",
+        "level": 3,
+        "definition": "Demonstrations or walkthroughs of building or deploying software applications."
+      },
+      {
+        "code": "04.11.22",
+        "label": "Programming Skills",
+        "level": 3,
+        "definition": "Conceptual or instructional content on writing, structuring, or improving code logic."
+      }
+    ],
+    "04.11.21": [
+      {
+        "code": "04.11.21.41",
+        "label": "Mobile Apps",
+        "level": 4,
+        "definition": "Reviews, compares, or demonstrates mobile apps for productivity, creativity, or entertainment."
+      },
+      {
+        "code": "04.11.21.42",
+        "label": "Desktop Software",
+        "level": 4,
+        "definition": "Covers installation, features, and workflows of PC or Mac-based software for task-specific needs."
+      }
+    ],
+    "04.11.21.41": [
+      {
+        "code": "04.11.21.41.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      },
+      {
+        "code": "04.11.21.41.60",
+        "label": "Walkthrough",
+        "level": 5,
+        "definition": "Leads the viewer through a process, system, or game with detailed explanation."
+      }
+    ],
+    "04.11.21.42": [
+      {
+        "code": "04.11.21.42.13",
+        "label": "Demo",
+        "level": 5,
+        "definition": "Explores a topic in high detail, usually beyond surface-level information."
+      },
+      {
+        "code": "04.11.21.42.19",
+        "label": "Guide",
+        "level": 5,
+        "definition": "Walks the viewer through a task, platform, or system in a structured format."
+      }
+    ],
+    "04.11.22": [
+      {
+        "code": "04.11.22.43",
+        "label": "Code Debugging",
+        "level": 4,
+        "definition": "Walks through identifying and fixing errors in software, often using real-time screen capture or examples."
+      },
+      {
+        "code": "04.11.22.44",
+        "label": "Best Practices",
+        "level": 4,
+        "definition": "Teaches or reinforces professional coding habits, conventions, or workflows for quality assurance."
+      }
+    ],
+    "04.11.22.43": [
+      {
+        "code": "04.11.22.43.35",
+        "label": "Q&A",
+        "level": 5,
+        "definition": "Answers audience-submitted or pre-generated questions in a conversational tone."
+      },
+      {
+        "code": "04.11.22.43.52",
+        "label": "Tips",
+        "level": 5,
+        "definition": "Gives bite-sized advice or insights on how to improve in a given area."
+      }
+    ],
+    "04.11.22.44": [
+      {
+        "code": "04.11.22.44.06",
+        "label": "Case Study",
+        "level": 5,
+        "definition": "Presents a real-world example to explain how something worked or failed."
+      },
+      {
+        "code": "04.11.22.44.15",
+        "label": "Explained",
+        "level": 5,
+        "definition": "Simplifies a topic or concept through accessible language and examples."
+      }
+    ],
+    "04.12": [
+      {
+        "code": "04.12.23",
+        "label": "Internet Trends",
+        "level": 3,
+        "definition": "Highlights or commentary on current viral moments, internet behavior, and digital culture."
+      },
+      {
+        "code": "04.12.24",
+        "label": "Digital Media",
+        "level": 3,
+        "definition": "Analysis or documentation of how digital platforms shape culture and interaction."
+      }
+    ],
+    "04.12.23": [
+      {
+        "code": "04.12.23.45",
+        "label": "Social Media Shifts",
+        "level": 4,
+        "definition": "Analyzes updates, platform policy changes, or user behavior trends shaping social ecosystems."
+      },
+      {
+        "code": "04.12.23.46",
+        "label": "Meme Culture",
+        "level": 4,
+        "definition": "Explores viral formats, remix behavior, or visual language emerging from internet humor."
+      }
+    ],
+    "04.12.23.45": [
+      {
+        "code": "04.12.23.45.02",
+        "label": "Analysis",
+        "level": 5,
+        "definition": "Evaluates or interprets a subject through critical reasoning or structured breakdown."
+      },
+      {
+        "code": "04.12.23.45.58",
+        "label": "Update",
+        "level": 5,
+        "definition": "Provides a status report or change log on an ongoing story, project, or journey."
+      }
+    ],
+    "04.12.23.46": [
+      {
+        "code": "04.12.23.46.10",
+        "label": "Compilation",
+        "level": 5,
+        "definition": "Combines multiple short clips or moments into a single cohesive video."
+      }
+    ],
+    "04.12.24": [
+      {
+        "code": "04.12.24.47",
+        "label": "Video Content",
+        "level": 4,
+        "definition": "Discusses creation, structure, or engagement strategies for video-first formats across platforms."
+      },
+      {
+        "code": "04.12.24.48",
+        "label": "Podcasts",
+        "level": 4,
+        "definition": "Offers guidance on hosting, editing, or promoting audio content distributed through RSS platforms."
+      }
+    ],
+    "04.12.24.47": [
+      {
+        "code": "04.12.24.47.03",
+        "label": "Behind-the-Scenes",
+        "level": 5,
+        "definition": "Reveals the process or preparation behind a finished product or performance."
+      },
+      {
+        "code": "04.12.24.47.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      }
+    ],
+    "04.12.24.48": [
+      {
+        "code": "04.12.24.48.23",
+        "label": "Interview",
+        "level": 5,
+        "definition": "Features a conversation between host and guest(s) to extract insight or perspective."
+      },
+      {
+        "code": "04.12.24.48.33",
+        "label": "Podcasts",
+        "level": 5,
+        "definition": "Long-form audio or video conversations, usually structured around topics or guests."
+      }
+    ],
+    "04.13": [
+      {
+        "code": "04.13.25",
+        "label": "AI Applications",
+        "level": 3,
+        "definition": "Demonstrations or explanations of how AI models or tools are used in real scenarios."
+      },
+      {
+        "code": "04.13.26",
+        "label": "Blockchain Tech",
+        "level": 3,
+        "definition": "Explains blockchain technology, decentralization, crypto, or smart contracts."
+      }
+    ],
+    "04.13.25": [
+      {
+        "code": "04.13.25.49",
+        "label": "Chatbots",
+        "level": 4,
+        "definition": "Demonstrates how chatbots are built, trained, and used in customer service, content, or automation workflows."
+      },
+      {
+        "code": "04.13.25.50",
+        "label": "Machine Learning",
+        "level": 4,
+        "definition": "Explains how ML models are structured, trained, and applied across tasks like prediction, classification, or personalizatio"
+      }
+    ],
+    "04.13.25.49": [
+      {
+        "code": "04.13.25.49.13",
+        "label": "Demo",
+        "level": 5,
+        "definition": "Explores a topic in high detail, usually beyond surface-level information."
+      },
+      {
+        "code": "04.13.25.49.15",
+        "label": "Explained",
+        "level": 5,
+        "definition": "Simplifies a topic or concept through accessible language and examples."
+      }
+    ],
+    "04.13.25.50": [
+      {
+        "code": "04.13.25.50.06",
+        "label": "Case Study",
+        "level": 5,
+        "definition": "Presents a real-world example to explain how something worked or failed."
+      },
+      {
+        "code": "04.13.25.50.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      }
+    ],
+    "04.13.26": [
+      {
+        "code": "04.13.26.51",
+        "label": "Cryptocurrencies",
+        "level": 4,
+        "definition": "Breaks down how digital currencies function, how to trade them, and the risks or innovations they bring."
+      },
+      {
+        "code": "04.13.26.52",
+        "label": "Smart Contracts",
+        "level": 4,
+        "definition": "Explains how blockchain-based contracts execute automatically, often using real-world examples or project walkthroughs."
+      }
+    ],
+    "04.13.26.51": [
+      {
+        "code": "04.13.26.51.24",
+        "label": "Lists",
+        "level": 5,
+        "definition": "Presents a ranked or grouped set of recommendations, facts, or ideas."
+      },
+      {
+        "code": "04.13.26.51.41",
+        "label": "Reviews",
+        "level": 5,
+        "definition": "Evaluates and shares opinions on a product, service, or media item."
+      }
+    ],
+    "04.13.26.52": [
+      {
+        "code": "04.13.26.52.02",
+        "label": "Analysis",
+        "level": 5,
+        "definition": "Evaluates or interprets a subject through critical reasoning or structured breakdown."
+      },
+      {
+        "code": "04.13.26.52.19",
+        "label": "Guide",
+        "level": 5,
+        "definition": "Walks the viewer through a task, platform, or system in a structured format."
+      }
+    ],
+    "05": [
+      {
+        "code": "05.14",
+        "label": "Current Events",
+        "level": 2,
+        "definition": "Real-time or recent commentary on news, culture, or global developments."
+      },
+      {
+        "code": "05.15",
+        "label": "Politics & Opinion",
+        "level": 2,
+        "definition": "Political ideas, takes, or debates — includes ideology breakdowns, campaigns, and critiques."
+      },
+      {
+        "code": "05.16",
+        "label": "Culture & Society",
+        "level": 2,
+        "definition": "Observations on identity, values, behavior, rituals, or subcultures within society."
+      }
+    ],
+    "05.14": [
+      {
+        "code": "05.14.27",
+        "label": "Breaking News",
+        "level": 3,
+        "definition": "Real-time or same-day coverage of breaking stories, emergencies, or global events."
+      },
+      {
+        "code": "05.14.28",
+        "label": "Daily Updates",
+        "level": 3,
+        "definition": "Short-form summaries of daily happenings, typically news or culture-based."
+      }
+    ],
+    "05.14.27": [
+      {
+        "code": "05.14.27.53",
+        "label": "Live Updates",
+        "level": 4,
+        "definition": "Delivers real-time content about unfolding events, typically fast-paced and streamed or posted as-it-happens."
+      },
+      {
+        "code": "05.14.27.54",
+        "label": "Event Recaps",
+        "level": 4,
+        "definition": "Summarizes performances, launches, keynotes, or other major events with commentary or highlight coverage."
+      }
+    ],
+    "05.14.27.53": [
+      {
+        "code": "05.14.27.53.25",
+        "label": "Live",
+        "level": 5,
+        "definition": "Content streamed in real-time, often interactive or unedited."
+      },
+      {
+        "code": "05.14.27.53.58",
+        "label": "Update",
+        "level": 5,
+        "definition": "Provides a status report or change log on an ongoing story, project, or journey."
+      }
+    ],
+    "05.14.27.54": [
+      {
+        "code": "05.14.27.54.38",
+        "label": "Recap",
+        "level": 5,
+        "definition": "Summarizes key events, lessons, or takeaways from a larger experience or episode."
+      }
+    ],
+    "05.14.28": [
+      {
+        "code": "05.14.28.55",
+        "label": "News Briefs",
+        "level": 4,
+        "definition": "Presents short, focused news segments covering key headlines with minimal analysis or opinion."
+      },
+      {
+        "code": "05.14.28.56",
+        "label": "Morning Reports",
+        "level": 4,
+        "definition": "Curated summaries of daily headlines, weather, cultural moments, or platform trends delivered in the morning."
+      }
+    ],
+    "05.14.28.55": [
+      {
+        "code": "05.14.28.55.26",
+        "label": "Mini",
+        "level": 5,
+        "definition": "Delivers a shorter or condensed version of a traditionally longer content type."
+      },
+      {
+        "code": "05.14.28.55.43",
+        "label": "Roundup",
+        "level": 5,
+        "definition": "Aggregates several examples, trends, or pieces of news into one piece of content."
+      }
+    ],
+    "05.14.28.56": [
+      {
+        "code": "05.14.28.56.29",
+        "label": "Overview",
+        "level": 5,
+        "definition": "Presents a broad explanation of a topic, usually without deep technical detail."
+      },
+      {
+        "code": "05.14.28.56.59",
+        "label": "Vlogs",
+        "level": 5,
+        "definition": "Captures daily life, travel, or thought processes in a casual, documentary style."
+      }
+    ],
+    "05.15": [
+      {
+        "code": "05.15.29",
+        "label": "Debates",
+        "level": 3,
+        "definition": "Content that stages, hosts, or responds to structured ideological or social debates."
+      },
+      {
+        "code": "05.15.30",
+        "label": "Policy Analysis",
+        "level": 3,
+        "definition": "Breakdowns or analysis of political issues, proposals, or legislative actions."
+      },
+      {
+        "code": "05.15.91",
+        "label": "Conspiracy Theories",
+        "level": 3,
+        "definition": "Explores secretive narratives, alternate histories, or fringe theories critically or speculatively."
+      }
+    ],
+    "05.15.29": [
+      {
+        "code": "05.15.29.57",
+        "label": "Live Discussions",
+        "level": 4,
+        "definition": "Real-time group or solo dialogue on timely topics, often streamed or recorded with audience engagement."
+      },
+      {
+        "code": "05.15.29.58",
+        "label": "Opinion Clashes",
+        "level": 4,
+        "definition": "Presents opposing viewpoints in a debate or reaction format, often around controversial issues."
+      }
+    ],
+    "05.15.29.57": [
+      {
+        "code": "05.15.29.57.11",
+        "label": "Debate",
+        "level": 5,
+        "definition": "Shows how to make or build something step by step using accessible materials."
+      },
+      {
+        "code": "05.15.29.57.25",
+        "label": "Live",
+        "level": 5,
+        "definition": "Content streamed in real-time, often interactive or unedited."
+      }
+    ],
+    "05.15.29.58": [
+      {
+        "code": "05.15.29.58.36",
+        "label": "Rant",
+        "level": 5,
+        "definition": "Expresses strong opinion or frustration in an unfiltered, emotional format."
+      }
+    ],
+    "05.15.30": [
+      {
+        "code": "05.15.30.59",
+        "label": "Legislation Reviews",
+        "level": 4,
+        "definition": "Breaks down bills, laws, or political decisions with context, critique, or explainer framing."
+      },
+      {
+        "code": "05.15.30.60",
+        "label": "Election Insights",
+        "level": 4,
+        "definition": "Analyzes candidates, voter behavior, polling data, or campaign strategy before or after elections."
+      }
+    ],
+    "05.15.30.59": [
+      {
+        "code": "05.15.30.59.04",
+        "label": "Breakdown",
+        "level": 5,
+        "definition": "Dissects a topic into parts for clarity, often using visuals or step-by-step commentary."
+      },
+      {
+        "code": "05.15.30.59.15",
+        "label": "Explained",
+        "level": 5,
+        "definition": "Simplifies a topic or concept through accessible language and examples."
+      }
+    ],
+    "05.15.30.60": [
+      {
+        "code": "05.15.30.60.02",
+        "label": "Analysis",
+        "level": 5,
+        "definition": "Evaluates or interprets a subject through critical reasoning or structured breakdown."
+      },
+      {
+        "code": "05.15.30.60.24",
+        "label": "Lists",
+        "level": 5,
+        "definition": "Presents a ranked or grouped set of recommendations, facts, or ideas."
+      }
+    ],
+    "05.16": [
+      {
+        "code": "05.16.31",
+        "label": "Social Issues",
+        "level": 3,
+        "definition": "Content that explores social justice issues, equity, and systemic critique."
+      },
+      {
+        "code": "05.16.32",
+        "label": "Cultural Trends",
+        "level": 3,
+        "definition": "Describes cultural behaviors, rituals, changes, or subgroups within society."
+      }
+    ],
+    "05.16.31": [
+      {
+        "code": "05.16.31.61",
+        "label": "Justice Topics",
+        "level": 4,
+        "definition": "Explores themes of law, incarceration, civil rights, and systemic inequality through commentary or reporting."
+      },
+      {
+        "code": "05.16.31.62",
+        "label": "Community Stories",
+        "level": 4,
+        "definition": "Shares lived experiences or perspectives from underrepresented or localized communities."
+      }
+    ],
+    "05.16.31.61": [
+      {
+        "code": "05.16.31.61.01",
+        "label": "Advocacy",
+        "level": 5,
+        "definition": "Content designed to raise awareness or drive action around social or political causes."
+      },
+      {
+        "code": "05.16.31.61.33",
+        "label": "Podcasts",
+        "level": 5,
+        "definition": "Long-form audio or video conversations, usually structured around topics or guests."
+      }
+    ],
+    "05.16.31.62": [
+      {
+        "code": "05.16.31.62.23",
+        "label": "Interview",
+        "level": 5,
+        "definition": "Features a conversation between host and guest(s) to extract insight or perspective."
+      },
+      {
+        "code": "05.16.31.62.59",
+        "label": "Vlogs",
+        "level": 5,
+        "definition": "Captures daily life, travel, or thought processes in a casual, documentary style."
+      }
+    ],
+    "05.16.32": [
+      {
+        "code": "05.16.32.63",
+        "label": "Fashion Shifts",
+        "level": 4,
+        "definition": "Analyzes changes in fashion trends over time, across regions, or within subcultures."
+      },
+      {
+        "code": "05.16.32.64",
+        "label": "Tech Impacts",
+        "level": 4,
+        "definition": "Explores how emerging technologies affect behavior, jobs, ethics, or cultural norms."
+      }
+    ],
+    "05.16.32.63": [
+      {
+        "code": "05.16.32.63.43",
+        "label": "Roundup",
+        "level": 5,
+        "definition": "Aggregates several examples, trends, or pieces of news into one piece of content."
+      },
+      {
+        "code": "05.16.32.63.54",
+        "label": "Trends",
+        "level": 5,
+        "definition": "Highlights popular styles, challenges, or behavior emerging within a timeframe."
+      }
+    ],
+    "05.16.32.64": [
+      {
+        "code": "05.16.32.64.02",
+        "label": "Analysis",
+        "level": 5,
+        "definition": "Evaluates or interprets a subject through critical reasoning or structured breakdown."
+      },
+      {
+        "code": "05.16.32.64.08",
+        "label": "Commentary",
+        "level": 5,
+        "definition": "Offers subjective opinion or interpretation of an existing event, work, or trend."
+      }
+    ],
+    "06": [
+      {
+        "code": "06.17",
+        "label": "Visual Arts",
+        "level": 2,
+        "definition": "Content based on visual creative process — including drawing, illustration, or digital design."
+      },
+      {
+        "code": "06.18",
+        "label": "Music Creation",
+        "level": 2,
+        "definition": "Behind-the-scenes or tutorial-based content showing how music is written, recorded, or produced."
+      },
+      {
+        "code": "06.19",
+        "label": "Writing & Storytelling",
+        "level": 2,
+        "definition": "Content centered around narrative structure, fiction, prose, and literary development."
+      }
+    ],
+    "06.17": [
+      {
+        "code": "06.17.34",
+        "label": "Drawing",
+        "level": 3,
+        "definition": "Instruction or process documentation of analog or digital drawing techniques."
+      },
+      {
+        "code": "06.17.35",
+        "label": "Digital Art",
+        "level": 3,
+        "definition": "Creation-focused digital art content using illustration software or design tools."
+      }
+    ],
+    "06.17.34": [
+      {
+        "code": "06.17.34.67",
+        "label": "Sketching Techniques",
+        "level": 4,
+        "definition": "Teaches foundational linework, shading, and drawing fundamentals through process demos."
+      },
+      {
+        "code": "06.17.34.68",
+        "label": "Illustration Styles",
+        "level": 4,
+        "definition": "Compares or teaches stylistic approaches to digital or analog illustration."
+      }
+    ],
+    "06.17.34.67": [
+      {
+        "code": "06.17.34.67.52",
+        "label": "Tips",
+        "level": 5,
+        "definition": "Gives bite-sized advice or insights on how to improve in a given area."
+      },
+      {
+        "code": "06.17.34.67.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      }
+    ],
+    "06.17.34.68": [
+      {
+        "code": "06.17.34.68.19",
+        "label": "Guide",
+        "level": 5,
+        "definition": "Walks the viewer through a task, platform, or system in a structured format."
+      },
+      {
+        "code": "06.17.34.68.46",
+        "label": "Showcase",
+        "level": 5,
+        "definition": "Displays the features or value of a single product, creation, or talent."
+      }
+    ],
+    "06.17.35": [
+      {
+        "code": "06.17.35.69",
+        "label": "Graphic Design",
+        "level": 4,
+        "definition": "Covers composition, layout, typography, and branding in design tools and platforms."
+      },
+      {
+        "code": "06.17.35.70",
+        "label": "3D Modeling",
+        "level": 4,
+        "definition": "Demonstrates how to create or manipulate three-dimensional objects in virtual space using software."
+      }
+    ],
+    "06.17.35.69": [
+      {
+        "code": "06.17.35.69.13",
+        "label": "Demo",
+        "level": 5,
+        "definition": "Explores a topic in high detail, usually beyond surface-level information."
+      },
+      {
+        "code": "06.17.35.69.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      }
+    ],
+    "06.17.35.70": [
+      {
+        "code": "06.17.35.70.03",
+        "label": "Behind-the-Scenes",
+        "level": 5,
+        "definition": "Reveals the process or preparation behind a finished product or performance."
+      },
+      {
+        "code": "06.17.35.70.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      }
+    ],
+    "06.18": [
+      {
+        "code": "06.18.36",
+        "label": "Songwriting",
+        "level": 3,
+        "definition": "Shows the process of writing lyrics, melody, or full compositions for music."
+      },
+      {
+        "code": "06.18.37",
+        "label": "Music Production",
+        "level": 3,
+        "definition": "Content focused on producing, mixing, or engineering music using digital tools."
+      }
+    ],
+    "06.18.36": [
+      {
+        "code": "06.18.36.71",
+        "label": "Lyric Writing",
+        "level": 4,
+        "definition": "Shows how lyrics are structured, drafted, or rewritten in different musical genres."
+      },
+      {
+        "code": "06.18.36.72",
+        "label": "Melody Crafting",
+        "level": 4,
+        "definition": "Breaks down how melodies are developed using voice, instrument, or digital tools."
+      }
+    ],
+    "06.18.36.71": [
+      {
+        "code": "06.18.36.71.52",
+        "label": "Tips",
+        "level": 5,
+        "definition": "Gives bite-sized advice or insights on how to improve in a given area."
+      },
+      {
+        "code": "06.18.36.71.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      }
+    ],
+    "06.18.36.72": [
+      {
+        "code": "06.18.36.72.16",
+        "label": "Experiment",
+        "level": 5,
+        "definition": "Tests a hypothesis or idea in real-time, usually with unexpected or educational results."
+      },
+      {
+        "code": "06.18.36.72.19",
+        "label": "Guide",
+        "level": 5,
+        "definition": "Walks the viewer through a task, platform, or system in a structured format."
+      }
+    ],
+    "06.18.37": [
+      {
+        "code": "06.18.37.73",
+        "label": "Beat Making",
+        "level": 4,
+        "definition": "Demonstrates rhythm creation, sampling, or drum programming using production software."
+      },
+      {
+        "code": "06.18.37.74",
+        "label": "Mixing Techniques",
+        "level": 4,
+        "definition": "Shows how to balance and enhance recorded tracks for clarity, style, and polish."
+      }
+    ],
+    "06.18.37.73": [
+      {
+        "code": "06.18.37.73.13",
+        "label": "Demo",
+        "level": 5,
+        "definition": "Explores a topic in high detail, usually beyond surface-level information."
+      },
+      {
+        "code": "06.18.37.73.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      }
+    ],
+    "06.18.37.74": [
+      {
+        "code": "06.18.37.74.52",
+        "label": "Tips",
+        "level": 5,
+        "definition": "Gives bite-sized advice or insights on how to improve in a given area."
+      },
+      {
+        "code": "06.18.37.74.60",
+        "label": "Walkthrough",
+        "level": 5,
+        "definition": "Leads the viewer through a process, system, or game with detailed explanation."
+      }
+    ],
+    "06.19": [
+      {
+        "code": "06.19.38",
+        "label": "Fiction Writing",
+        "level": 3,
+        "definition": "Story-driven writing content covering fiction techniques, structure, or worldbuilding."
+      },
+      {
+        "code": "06.19.39",
+        "label": "Poetry",
+        "level": 3,
+        "definition": "Creative or instructional poetry content — includes writing, reading, and analysis."
+      }
+    ],
+    "06.19.38": [
+      {
+        "code": "06.19.38.75",
+        "label": "Short Stories",
+        "level": 4,
+        "definition": "Narrative fiction told in concise formats, often including structure, pacing, and theme breakdowns."
+      },
+      {
+        "code": "06.19.38.76",
+        "label": "Novels",
+        "level": 4,
+        "definition": "Explores longform storytelling, plot arcs, and genre theory through reader or writer lenses."
+      }
+    ],
+    "06.19.38.75": [
+      {
+        "code": "06.19.38.75.26",
+        "label": "Mini",
+        "level": 5,
+        "definition": "Delivers a shorter or condensed version of a traditionally longer content type."
+      },
+      {
+        "code": "06.19.38.75.48",
+        "label": "Storytime",
+        "level": 5,
+        "definition": "Shares a personal or fictional narrative with a hook, pacing, and emotional arc."
+      }
+    ],
+    "06.19.38.76": [
+      {
+        "code": "06.19.38.76.04",
+        "label": "Breakdown",
+        "level": 5,
+        "definition": "Dissects a topic into parts for clarity, often using visuals or step-by-step commentary."
+      },
+      {
+        "code": "06.19.38.76.19",
+        "label": "Guide",
+        "level": 5,
+        "definition": "Walks the viewer through a task, platform, or system in a structured format."
+      }
+    ],
+    "06.19.39": [
+      {
+        "code": "06.19.39.77",
+        "label": "Spoken Word",
+        "level": 4,
+        "definition": "Performance poetry or narrative delivered aloud, often with rhythm, emotion, and social commentary."
+      },
+      {
+        "code": "06.19.39.78",
+        "label": "Written Verse",
+        "level": 4,
+        "definition": "Examines poetry through meter, metaphor, form, and interpretation as written text."
+      }
+    ],
+    "06.19.39.77": [
+      {
+        "code": "06.19.39.77.30",
+        "label": "Performance",
+        "level": 5,
+        "definition": "Content where the creator performs music, art, theater, or physical feats for the audience."
+      },
+      {
+        "code": "06.19.39.77.40",
+        "label": "Recital",
+        "level": 5,
+        "definition": "Performs a formal presentation of art — often music, poetry, or theater."
+      }
+    ],
+    "06.19.39.78": [
+      {
+        "code": "06.19.39.78.24",
+        "label": "Lists",
+        "level": 5,
+        "definition": "Presents a ranked or grouped set of recommendations, facts, or ideas."
+      },
+      {
+        "code": "06.19.39.78.46",
+        "label": "Showcase",
+        "level": 5,
+        "definition": "Displays the features or value of a single product, creation, or talent."
+      }
+    ],
+    "07": [
+      {
+        "code": "07.20",
+        "label": "Gameplay & Streams",
+        "level": 2,
+        "definition": "Real-time or recorded playthroughs and livestreamed sessions of video games."
+      },
+      {
+        "code": "07.21",
+        "label": "Game Culture",
+        "level": 2,
+        "definition": "Commentary, analysis, lore, fandom, and creative engagement with games beyond play."
+      }
+    ],
+    "07.20": [
+      {
+        "code": "07.20.40",
+        "label": "Live Streams",
+        "level": 3,
+        "definition": "Unscripted, real-time video content often used for interaction or immersion."
+      },
+      {
+        "code": "07.20.41",
+        "label": "Walkthroughs",
+        "level": 3,
+        "definition": "Gameplay-oriented content guiding viewers through levels or strategies."
+      }
+    ],
+    "07.20.40": [
+      {
+        "code": "07.20.40.79",
+        "label": "Competitive Play",
+        "level": 4,
+        "definition": "Highlights high-stakes or ranked gaming, including strategy, commentary, and stakes."
+      },
+      {
+        "code": "07.20.40.80",
+        "label": "Casual Sessions",
+        "level": 4,
+        "definition": "Relaxed or recreational playthroughs that prioritize fun, exploration, or storytelling."
+      }
+    ],
+    "07.20.40.79": [
+      {
+        "code": "07.20.40.79.25",
+        "label": "Live",
+        "level": 5,
+        "definition": "Content streamed in real-time, often interactive or unedited."
+      }
+    ],
+    "07.20.40.80": [
+      {
+        "code": "07.20.40.80.59",
+        "label": "Vlogs",
+        "level": 5,
+        "definition": "Captures daily life, travel, or thought processes in a casual, documentary style."
+      }
+    ],
+    "07.20.41": [
+      {
+        "code": "07.20.41.81",
+        "label": "Story Guides",
+        "level": 4,
+        "definition": "Explains plotlines, character arcs, or lore in narrative-driven games or media."
+      },
+      {
+        "code": "07.20.41.82",
+        "label": "Puzzle Solutions",
+        "level": 4,
+        "definition": "Walks through logic, clues, or completion strategies for puzzles or challenge-based content."
+      }
+    ],
+    "07.20.41.81": [
+      {
+        "code": "07.20.41.81.19",
+        "label": "Guide",
+        "level": 5,
+        "definition": "Walks the viewer through a task, platform, or system in a structured format."
+      },
+      {
+        "code": "07.20.41.81.60",
+        "label": "Walkthrough",
+        "level": 5,
+        "definition": "Leads the viewer through a process, system, or game with detailed explanation."
+      }
+    ],
+    "07.20.41.82": [
+      {
+        "code": "07.20.41.82.52",
+        "label": "Tips",
+        "level": 5,
+        "definition": "Gives bite-sized advice or insights on how to improve in a given area."
+      },
+      {
+        "code": "07.20.41.82.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      }
+    ],
+    "07.21": [
+      {
+        "code": "07.21.42",
+        "label": "Game Reviews",
+        "level": 3,
+        "definition": "Subjective or comparative video game content including opinion or performance."
+      },
+      {
+        "code": "07.21.43",
+        "label": "Esports",
+        "level": 3,
+        "definition": "Competitive gaming content including matches, highlights, analysis, or commentary."
+      }
+    ],
+    "07.21.42": [
+      {
+        "code": "07.21.42.83",
+        "label": "New Releases",
+        "level": 4,
+        "definition": "Reviews or previews just-launched games, features, or products with early impressions."
+      },
+      {
+        "code": "07.21.42.84",
+        "label": "Retro Games",
+        "level": 4,
+        "definition": "Covers gameplay, reviews, or analysis of older titles with historical or nostalgic framing."
+      }
+    ],
+    "07.21.42.83": [
+      {
+        "code": "07.21.42.83.18",
+        "label": "First Impressions",
+        "level": 5,
+        "definition": "Initial reactions to a new product, trend, or experience — usually unfiltered."
+      },
+      {
+        "code": "07.21.42.83.41",
+        "label": "Reviews",
+        "level": 5,
+        "definition": "Evaluates and shares opinions on a product, service, or media item."
+      }
+    ],
+    "07.21.42.84": [
+      {
+        "code": "07.21.42.84.09",
+        "label": "Comparison",
+        "level": 5,
+        "definition": "Contrasts two or more options, tools, products, or perspectives."
+      },
+      {
+        "code": "07.21.42.84.38",
+        "label": "Recap",
+        "level": 5,
+        "definition": "Summarizes key events, lessons, or takeaways from a larger experience or episode."
+      }
+    ],
+    "07.21.43": [
+      {
+        "code": "07.21.43.85",
+        "label": "Tournaments",
+        "level": 4,
+        "definition": "Documents competitive gaming events with match breakdowns, brackets, or highlight commentary."
+      },
+      {
+        "code": "07.21.43.86",
+        "label": "Player Profiles",
+        "level": 4,
+        "definition": "Features notable players, their play style, background, and achievements in competitive spaces."
+      }
+    ],
+    "07.21.43.85": [
+      {
+        "code": "07.21.43.85.22",
+        "label": "Highlight",
+        "level": 5,
+        "definition": "Shows standout or peak moments from a longer piece of content or event."
+      },
+      {
+        "code": "07.21.43.85.27",
+        "label": "Montage",
+        "level": 5,
+        "definition": "A fast-paced edit showing a sequence of related visuals or actions, often set to music."
+      }
+    ],
+    "07.21.43.86": [
+      {
+        "code": "07.21.43.86.03",
+        "label": "Behind-the-Scenes",
+        "level": 5,
+        "definition": "Reveals the process or preparation behind a finished product or performance."
+      },
+      {
+        "code": "07.21.43.86.23",
+        "label": "Interview",
+        "level": 5,
+        "definition": "Features a conversation between host and guest(s) to extract insight or perspective."
+      }
+    ],
+    "08": [
+      {
+        "code": "08.22",
+        "label": "Investing & Markets",
+        "level": 2,
+        "definition": "Strategic content around stocks, crypto, real estate, or market analysis."
+      },
+      {
+        "code": "08.23",
+        "label": "Entrepreneurship",
+        "level": 2,
+        "definition": "Content about starting or building businesses, products, or monetizable services."
+      },
+      {
+        "code": "08.24",
+        "label": "Digital Ventures",
+        "level": 2,
+        "definition": "Online product-building content — includes SaaS, tools, no-code, or startup projects."
+      },
+      {
+        "code": "08.25",
+        "label": "Personal Finance",
+        "level": 2,
+        "definition": "Money management content focused on budgeting, saving, debt, credit, and financial literacy."
+      }
+    ],
+    "08.22": [
+      {
+        "code": "08.22.44",
+        "label": "Stock Trading",
+        "level": 3,
+        "definition": "Content about buying, selling, or analyzing stock market and equity assets."
+      },
+      {
+        "code": "08.22.45",
+        "label": "Cryptocurrency",
+        "level": 3,
+        "definition": "Content about cryptocurrency markets, trading tools, and economic implications."
+      }
+    ],
+    "08.22.44": [
+      {
+        "code": "08.22.44.87",
+        "label": "Technical Analysis",
+        "level": 4,
+        "definition": "Evaluates financial markets using price patterns, charts, and historical behavior."
+      },
+      {
+        "code": "08.22.44.88",
+        "label": "Fundamental Analysis",
+        "level": 4,
+        "definition": "Assesses the intrinsic value of stocks or assets using business metrics or financial data."
+      }
+    ],
+    "08.22.44.87": [
+      {
+        "code": "08.22.44.87.02",
+        "label": "Analysis",
+        "level": 5,
+        "definition": "Evaluates or interprets a subject through critical reasoning or structured breakdown."
+      },
+      {
+        "code": "08.22.44.87.52",
+        "label": "Tips",
+        "level": 5,
+        "definition": "Gives bite-sized advice or insights on how to improve in a given area."
+      }
+    ],
+    "08.22.44.88": [
+      {
+        "code": "08.22.44.88.04",
+        "label": "Breakdown",
+        "level": 5,
+        "definition": "Dissects a topic into parts for clarity, often using visuals or step-by-step commentary."
+      },
+      {
+        "code": "08.22.44.88.15",
+        "label": "Explained",
+        "level": 5,
+        "definition": "Simplifies a topic or concept through accessible language and examples."
+      }
+    ],
+    "08.22.45": [
+      {
+        "code": "08.22.45.89",
+        "label": "Crypto Trading",
+        "level": 4,
+        "definition": "Shows how to buy, sell, and interpret trends in digital currencies, often in real time."
+      },
+      {
+        "code": "08.22.45.90",
+        "label": "NFT Markets",
+        "level": 4,
+        "definition": "Explores NFT platforms, collections, trends, and investment logic around digital assets."
+      }
+    ],
+    "08.22.45.89": [
+      {
+        "code": "08.22.45.89.19",
+        "label": "Guide",
+        "level": 5,
+        "definition": "Walks the viewer through a task, platform, or system in a structured format."
+      },
+      {
+        "code": "08.22.45.89.25",
+        "label": "Live",
+        "level": 5,
+        "definition": "Content streamed in real-time, often interactive or unedited."
+      }
+    ],
+    "08.22.45.90": [
+      {
+        "code": "08.22.45.90.24",
+        "label": "Lists",
+        "level": 5,
+        "definition": "Presents a ranked or grouped set of recommendations, facts, or ideas."
+      },
+      {
+        "code": "08.22.45.90.41",
+        "label": "Reviews",
+        "level": 5,
+        "definition": "Evaluates and shares opinions on a product, service, or media item."
+      }
+    ],
+    "08.23": [
+      {
+        "code": "08.23.46",
+        "label": "Startups",
+        "level": 3,
+        "definition": "Content about launching, scaling, or reflecting on early-stage businesses."
+      },
+      {
+        "code": "08.23.47",
+        "label": "Business Skills",
+        "level": 3,
+        "definition": "Instructional content about workplace tools, soft skills, or operational processes."
+      }
+    ],
+    "08.23.46": [
+      {
+        "code": "08.23.46.91",
+        "label": "Business Plans",
+        "level": 4,
+        "definition": "Breaks down or builds frameworks for startups, from mission to monetization."
+      },
+      {
+        "code": "08.23.46.92",
+        "label": "Funding Strategies",
+        "level": 4,
+        "definition": "Explains how founders raise capital, pitch investors, or structure early-stage financing."
+      }
+    ],
+    "08.23.46.91": [
+      {
+        "code": "08.23.46.91.06",
+        "label": "Case Study",
+        "level": 5,
+        "definition": "Presents a real-world example to explain how something worked or failed."
+      },
+      {
+        "code": "08.23.46.91.19",
+        "label": "Guide",
+        "level": 5,
+        "definition": "Walks the viewer through a task, platform, or system in a structured format."
+      }
+    ],
+    "08.23.46.92": [
+      {
+        "code": "08.23.46.92.31",
+        "label": "Pitch",
+        "level": 5,
+        "definition": "Proposes an idea, product, or plan in a persuasive and structured format."
+      },
+      {
+        "code": "08.23.46.92.52",
+        "label": "Tips",
+        "level": 5,
+        "definition": "Gives bite-sized advice or insights on how to improve in a given area."
+      }
+    ],
+    "08.23.47": [
+      {
+        "code": "08.23.47.93",
+        "label": "Marketing Tactics",
+        "level": 4,
+        "definition": "Shares tools and campaigns to acquire users, drive traffic, or increase engagement."
+      },
+      {
+        "code": "08.23.47.94",
+        "label": "Leadership Training",
+        "level": 4,
+        "definition": "Offers skills and insights to develop leadership behavior, decision-making, and management."
+      }
+    ],
+    "08.23.47.93": [
+      {
+        "code": "08.23.47.93.20",
+        "label": "Hack",
+        "level": 5,
+        "definition": "Shows a shortcut or unconventional method to achieve a result quickly or efficiently."
+      },
+      {
+        "code": "08.23.47.93.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      }
+    ],
+    "08.23.47.94": [
+      {
+        "code": "08.23.47.94.23",
+        "label": "Interview",
+        "level": 5,
+        "definition": "Features a conversation between host and guest(s) to extract insight or perspective."
+      }
+    ],
+    "08.24": [
+      {
+        "code": "08.24.48",
+        "label": "Online Businesses",
+        "level": 3,
+        "definition": "Content about monetizing digital products, platforms, or Creator businesses."
+      },
+      {
+        "code": "08.24.49",
+        "label": "Content Monetization",
+        "level": 3,
+        "definition": "Teaches how to monetize digital content, platforms, or creator businesses."
+      }
+    ],
+    "08.24.48": [
+      {
+        "code": "08.24.48.95",
+        "label": "E-Commerce",
+        "level": 4,
+        "definition": "Covers storefronts, product launches, fulfillment, and digital retail best practices."
+      },
+      {
+        "code": "08.24.48.96",
+        "label": "Affiliate Marketing",
+        "level": 4,
+        "definition": "Explains how creators or businesses earn income by linking or promoting third-party products."
+      }
+    ],
+    "08.24.48.95": [
+      {
+        "code": "08.24.48.95.45",
+        "label": "Setup",
+        "level": 5,
+        "definition": "Shows how tools, environments, or systems are arranged and optimized."
+      },
+      {
+        "code": "08.24.48.95.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      }
+    ],
+    "08.24.48.96": [
+      {
+        "code": "08.24.48.96.19",
+        "label": "Guide",
+        "level": 5,
+        "definition": "Walks the viewer through a task, platform, or system in a structured format."
+      },
+      {
+        "code": "08.24.48.96.52",
+        "label": "Tips",
+        "level": 5,
+        "definition": "Gives bite-sized advice or insights on how to improve in a given area."
+      }
+    ],
+    "08.24.49": [
+      {
+        "code": "08.24.49.97",
+        "label": "Ad Revenue",
+        "level": 4,
+        "definition": "Shows how creators generate income through platform-based advertising models."
+      },
+      {
+        "code": "08.24.49.98",
+        "label": "Subscriptions",
+        "level": 4,
+        "definition": "Explores monetization through recurring payment models like Patreon or platform memberships."
+      }
+    ],
+    "08.24.49.97": [
+      {
+        "code": "08.24.49.97.02",
+        "label": "Analysis",
+        "level": 5,
+        "definition": "Evaluates or interprets a subject through critical reasoning or structured breakdown."
+      },
+      {
+        "code": "08.24.49.97.20",
+        "label": "Hack",
+        "level": 5,
+        "definition": "Shows a shortcut or unconventional method to achieve a result quickly or efficiently."
+      }
+    ],
+    "08.24.49.98": [
+      {
+        "code": "08.24.49.98.49",
+        "label": "Strategy",
+        "level": 5,
+        "definition": "Outlines a structured plan of action to achieve a result, often in games or business."
+      },
+      {
+        "code": "08.24.49.98.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      }
+    ],
+    "08.25": [
+      {
+        "code": "08.25.50",
+        "label": "Budgeting",
+        "level": 3,
+        "definition": "How-to or story-driven content on managing personal budgets and expenses."
+      },
+      {
+        "code": "08.25.51",
+        "label": "Saving Strategies",
+        "level": 3,
+        "definition": "Savings strategies, systems, or personal finance habits shared or taught."
+      }
+    ],
+    "08.25.50": [
+      {
+        "code": "08.25.50.99",
+        "label": "Expense Tracking",
+        "level": 4,
+        "definition": "Teaches systems and tools for monitoring personal or business spending habits."
+      },
+      {
+        "code": "08.25.50.100",
+        "label": "Debt Management",
+        "level": 4,
+        "definition": "Offers advice and frameworks for reducing, restructuring, or eliminating debt."
+      }
+    ],
+    "08.25.50.99": [
+      {
+        "code": "08.25.50.99.52",
+        "label": "Tips",
+        "level": 5,
+        "definition": "Gives bite-sized advice or insights on how to improve in a given area."
+      },
+      {
+        "code": "08.25.50.99.59",
+        "label": "Vlogs",
+        "level": 5,
+        "definition": "Captures daily life, travel, or thought processes in a casual, documentary style."
+      }
+    ],
+    "09": [
+      {
+        "code": "09.26",
+        "label": "Physical Health",
+        "level": 2,
+        "definition": "Content about mobility, strength, recovery, and the maintenance of physical well-being."
+      },
+      {
+        "code": "09.27",
+        "label": "Mental Health",
+        "level": 2,
+        "definition": "Content exploring therapy, trauma, emotions, stress management, and inner experience."
+      },
+      {
+        "code": "09.28",
+        "label": "Alternative Wellness",
+        "level": 2,
+        "definition": "Spiritual or non-medical practices like breathwork, energy healing, and ritual wellness."
+      }
+    ],
+    "09.26": [
+      {
+        "code": "09.26.52",
+        "label": "Nutrition",
+        "level": 3,
+        "definition": "Content about diet, food choice, meal planning, and body-health relationships."
+      },
+      {
+        "code": "09.26.53",
+        "label": "Exercise Routines",
+        "level": 3,
+        "definition": "Physical movement routines designed for wellness, performance, or therapy."
+      }
+    ],
+    "09.27": [
+      {
+        "code": "09.27.54",
+        "label": "Therapy Techniques",
+        "level": 3,
+        "definition": "Guidance on therapy techniques used in clinical or personal mental health settings."
+      },
+      {
+        "code": "09.27.55",
+        "label": "Mindfulness Practices",
+        "level": 3,
+        "definition": "Exercises and practices for regulating thoughts, emotions, and awareness."
+      }
+    ],
+    "09.28": [
+      {
+        "code": "09.28.56",
+        "label": "Holistic Healing",
+        "level": 3,
+        "definition": "Covers energy healing, herbal approaches, spiritual cleanses, or metaphysical wellness."
+      },
+      {
+        "code": "09.28.57",
+        "label": "Spiritual Wellness",
+        "level": 3,
+        "definition": "Explores spiritual identity, practice, and reflection through religious or cultural lenses."
+      }
+    ],
+    "10": [
+      {
+        "code": "10.29",
+        "label": "Vlogs & Daily Life",
+        "level": 2,
+        "definition": "Personal narrative content capturing routine, identity, or ambient moments of life."
+      },
+      {
+        "code": "10.30",
+        "label": "Activism & Causes",
+        "level": 2,
+        "definition": "Content centered on advocacy, protest, or systemic critique — personal or collective."
+      },
+      {
+        "code": "10.31",
+        "label": "Fandoms & Groups",
+        "level": 2,
+        "definition": "Content for and about niche communities and identity-driven fan cultures."
+      },
+      {
+        "code": "10.32",
+        "label": "Social Media",
+        "level": 2,
+        "definition": "Content about growing, navigating, or critiquing platform mechanics and creator strategy."
+      }
+    ],
+    "10.29": [
+      {
+        "code": "10.29.58",
+        "label": "Personal Vlogs",
+        "level": 3,
+        "definition": "Captures a person’s lifestyle, routines, or thoughts in a personal, day-in-the-life format."
+      },
+      {
+        "code": "10.29.59",
+        "label": "Family Vlogs",
+        "level": 3,
+        "definition": "Centers around family life, children, or household dynamics in a vlog or storytelling style."
+      }
+    ],
+    "10.30": [
+      {
+        "code": "10.30.60",
+        "label": "Advocacy",
+        "level": 3,
+        "definition": "Raises awareness about social causes, injustice, or community transformation."
+      },
+      {
+        "code": "10.30.61",
+        "label": "Awareness Campaigns",
+        "level": 3,
+        "definition": "Supports collective or personal movements through education, stories, or calls to action."
+      }
+    ],
+    "10.31": [
+      {
+        "code": "10.31.62",
+        "label": "Fan Content",
+        "level": 3,
+        "definition": "Creates content about and for fan communities, often tied to pop culture or shared identity."
+      },
+      {
+        "code": "10.31.63",
+        "label": "Community Discussions",
+        "level": 3,
+        "definition": "Engages in discussion, reflection, or commentary about group identity or culture."
+      }
+    ],
+    "10.32": [
+      {
+        "code": "10.32.64",
+        "label": "Platform Strategies",
+        "level": 3,
+        "definition": "Analyzes platform mechanics, growth strategy, or optimization methods for social media."
+      },
+      {
+        "code": "10.32.65",
+        "label": "Influencer Content",
+        "level": 3,
+        "definition": "Discusses creator economics, brand deals, and sponsorships from an influencer perspective."
+      }
+    ],
+    "11": [
+      {
+        "code": "11.33",
+        "label": "Competitive Sports",
+        "level": 2,
+        "definition": "Coverage of athletic competition — includes commentary, highlights, or match analysis."
+      },
+      {
+        "code": "11.34",
+        "label": "Sports Training",
+        "level": 2,
+        "definition": "Performance training, technique drills, and skill-building in a specific sport."
+      }
+    ],
+    "11.33": [
+      {
+        "code": "11.33.66",
+        "label": "Team Sports",
+        "level": 3,
+        "definition": "Shows drills, team routines, or technical breakdowns for traditional team-based sports."
+      },
+      {
+        "code": "11.33.67",
+        "label": "Individual Sports",
+        "level": 3,
+        "definition": "Focuses on individual sport techniques, achievements, and self-driven performance."
+      }
+    ],
+    "11.34": [
+      {
+        "code": "11.34.68",
+        "label": "Fitness Training",
+        "level": 3,
+        "definition": "Teaches or improves technical athletic skill, often through drills or coaching."
+      },
+      {
+        "code": "11.34.69",
+        "label": "Skill Development",
+        "level": 3,
+        "definition": "Demonstrates technique or learning strategies applied to acquiring a skill."
+      }
+    ],
+    "12": [
+      {
+        "code": "12.35",
+        "label": "Pet Care",
+        "level": 2,
+        "definition": "Practical care content focused on feeding, grooming, health, and pet behavior."
+      },
+      {
+        "code": "12.36",
+        "label": "Pet Life",
+        "level": 2,
+        "definition": "Content centered on animals as companions — vlogs, emotions, humor, and daily interactions."
+      }
+    ],
+    "12.35": [
+      {
+        "code": "12.35.70",
+        "label": "Pet Health",
+        "level": 3,
+        "definition": "Explains pet nutrition, health conditions, or veterinary routines for animals."
+      },
+      {
+        "code": "12.35.71",
+        "label": "Pet Grooming",
+        "level": 3,
+        "definition": "Demonstrates washing, clipping, or styling pets with grooming tools and products."
+      }
+    ],
+    "12.36": [
+      {
+        "code": "12.36.72",
+        "label": "Pet Vlogs",
+        "level": 3,
+        "definition": "Centers pet personalities in daily life, adventures, or themed content."
+      },
+      {
+        "code": "12.36.73",
+        "label": "Pet Entertainment",
+        "level": 3,
+        "definition": "Shares humorous, playful, or emotional animal content meant for entertainment."
+      }
+    ],
+    "10.31.62.124": [
+      {
+        "code": "10.31.62.124.15",
+        "label": "Explained",
+        "level": 5,
+        "definition": "Simplifies a topic or concept through accessible language and examples."
+      },
+      {
+        "code": "10.31.62.124.11",
+        "label": "Debate",
+        "level": 5,
+        "definition": "Shows how to make or build something step by step using accessible materials."
+      }
+    ],
+    "10.31.62.123": [
+      {
+        "code": "10.31.62.123.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      },
+      {
+        "code": "10.31.62.123.46",
+        "label": "Showcase",
+        "level": 5,
+        "definition": "Displays the features or value of a single product, creation, or talent."
+      }
+    ],
+    "10.30.61.122": [
+      {
+        "code": "10.30.61.122.23",
+        "label": "Interview",
+        "level": 5,
+        "definition": "Features a conversation between host and guest(s) to extract insight or perspective."
+      },
+      {
+        "code": "10.30.61.122.59",
+        "label": "Vlogs",
+        "level": 5,
+        "definition": "Captures daily life, travel, or thought processes in a casual, documentary style."
+      }
+    ],
+    "10.30.61.121": [
+      {
+        "code": "10.30.61.121.48",
+        "label": "Storytime",
+        "level": 5,
+        "definition": "Shares a personal or fictional narrative with a hook, pacing, and emotional arc."
+      }
+    ],
+    "10.30.60.120": [
+      {
+        "code": "10.30.60.120.05",
+        "label": "Campaign",
+        "level": 5,
+        "definition": "Showcases a coordinated content effort, usually tied to a launch, cause, or partnership."
+      },
+      {
+        "code": "10.30.60.120.15",
+        "label": "Explained",
+        "level": 5,
+        "definition": "Simplifies a topic or concept through accessible language and examples."
+      }
+    ],
+    "10.30.60.119": [
+      {
+        "code": "10.30.60.119.11",
+        "label": "Debate",
+        "level": 5,
+        "definition": "Shows how to make or build something step by step using accessible materials."
+      },
+      {
+        "code": "10.30.60.119.01",
+        "label": "Advocacy",
+        "level": 5,
+        "definition": "Content designed to raise awareness or drive action around social or political causes."
+      }
+    ],
+    "10.29.59.118": [
+      {
+        "code": "10.29.59.118.20",
+        "label": "Hack",
+        "level": 5,
+        "definition": "Shows a shortcut or unconventional method to achieve a result quickly or efficiently."
+      },
+      {
+        "code": "10.29.59.118.52",
+        "label": "Tips",
+        "level": 5,
+        "definition": "Gives bite-sized advice or insights on how to improve in a given area."
+      }
+    ],
+    "10.31.63.125": [
+      {
+        "code": "10.31.63.125.35",
+        "label": "Q&A",
+        "level": 5,
+        "definition": "Answers audience-submitted or pre-generated questions in a conversational tone."
+      },
+      {
+        "code": "10.31.63.125.43",
+        "label": "Roundup",
+        "level": 5,
+        "definition": "Aggregates several examples, trends, or pieces of news into one piece of content."
+      }
+    ],
+    "05.15.91.182": [
+      {
+        "code": "05.15.91.182.48",
+        "label": "Storytime",
+        "level": 5,
+        "definition": "Shares a personal or fictional narrative with a hook, pacing, and emotional arc."
+      },
+      {
+        "code": "05.15.91.182.11",
+        "label": "Debate",
+        "level": 5,
+        "definition": "Shows how to make or build something step by step using accessible materials."
+      }
+    ],
+    "09.27.55.110": [
+      {
+        "code": "09.27.55.110.26",
+        "label": "Mini",
+        "level": 5,
+        "definition": "Delivers a shorter or condensed version of a traditionally longer content type."
+      },
+      {
+        "code": "09.27.55.110.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      }
+    ],
+    "09.28.56.111": [
+      {
+        "code": "09.28.56.111.39",
+        "label": "Recipes",
+        "level": 5,
+        "definition": "Teaches how to prepare a specific dish with ingredients, steps, and tips."
+      },
+      {
+        "code": "09.28.56.111.14",
+        "label": "DIY",
+        "level": 5,
+        "definition": "Demonstrates how a product or process works, often in real-time."
+      }
+    ],
+    "09.28.56.112": [
+      {
+        "code": "09.28.56.112.44",
+        "label": "Session",
+        "level": 5,
+        "definition": "Captures an unbroken time block of activity like music, drawing, or discussion."
+      },
+      {
+        "code": "09.28.56.112.15",
+        "label": "Explained",
+        "level": 5,
+        "definition": "Simplifies a topic or concept through accessible language and examples."
+      }
+    ],
+    "09.28.57.113": [
+      {
+        "code": "09.28.57.113.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      },
+      {
+        "code": "09.28.57.113.59",
+        "label": "Vlogs",
+        "level": 5,
+        "definition": "Captures daily life, travel, or thought processes in a casual, documentary style."
+      }
+    ],
+    "10.29.58.115": [
+      {
+        "code": "10.29.58.115.59",
+        "label": "Vlogs",
+        "level": 5,
+        "definition": "Captures daily life, travel, or thought processes in a casual, documentary style."
+      },
+      {
+        "code": "10.29.58.115.53",
+        "label": "Tour",
+        "level": 5,
+        "definition": "Takes the viewer through a space, platform, or experience step by step."
+      }
+    ],
+    "10.29.58.116": [
+      {
+        "code": "10.29.58.116.58",
+        "label": "Update",
+        "level": 5,
+        "definition": "Provides a status report or change log on an ongoing story, project, or journey."
+      },
+      {
+        "code": "10.29.58.116.48",
+        "label": "Storytime",
+        "level": 5,
+        "definition": "Shares a personal or fictional narrative with a hook, pacing, and emotional arc."
+      }
+    ],
+    "10.29.59.117": [
+      {
+        "code": "10.29.59.117.59",
+        "label": "Vlogs",
+        "level": 5,
+        "definition": "Captures daily life, travel, or thought processes in a casual, documentary style."
+      },
+      {
+        "code": "10.29.59.117.27",
+        "label": "Montage",
+        "level": 5,
+        "definition": "A fast-paced edit showing a sequence of related visuals or actions, often set to music."
+      }
+    ],
+    "09.28.57.114": [
+      {
+        "code": "09.28.57.114.37",
+        "label": "Reading",
+        "level": 5,
+        "definition": "Content involving someone reading aloud — books, comments, scripts, or essays."
+      }
+    ],
+    "10.31.63.126": [
+      {
+        "code": "10.31.63.126.38",
+        "label": "Recap",
+        "level": 5,
+        "definition": "Summarizes key events, lessons, or takeaways from a larger experience or episode."
+      },
+      {
+        "code": "10.31.63.126.25",
+        "label": "Live",
+        "level": 5,
+        "definition": "Content streamed in real-time, often interactive or unedited."
+      }
+    ],
+    "10.32.64.127": [
+      {
+        "code": "10.32.64.127.52",
+        "label": "Tips",
+        "level": 5,
+        "definition": "Gives bite-sized advice or insights on how to improve in a given area."
+      },
+      {
+        "code": "10.32.64.127.20",
+        "label": "Hack",
+        "level": 5,
+        "definition": "Shows a shortcut or unconventional method to achieve a result quickly or efficiently."
+      }
+    ],
+    "11.34.69.138": [
+      {
+        "code": "11.34.69.138.19",
+        "label": "Guide",
+        "level": 5,
+        "definition": "Walks the viewer through a task, platform, or system in a structured format."
+      },
+      {
+        "code": "11.34.69.138.02",
+        "label": "Analysis",
+        "level": 5,
+        "definition": "Evaluates or interprets a subject through critical reasoning or structured breakdown."
+      }
+    ],
+    "12.35.70.139": [
+      {
+        "code": "12.35.70.139.52",
+        "label": "Tips",
+        "level": 5,
+        "definition": "Gives bite-sized advice or insights on how to improve in a given area."
+      },
+      {
+        "code": "12.35.70.139.19",
+        "label": "Guide",
+        "level": 5,
+        "definition": "Walks the viewer through a task, platform, or system in a structured format."
+      }
+    ],
+    "12.35.70.140": [
+      {
+        "code": "12.35.70.140.15",
+        "label": "Explained",
+        "level": 5,
+        "definition": "Simplifies a topic or concept through accessible language and examples."
+      },
+      {
+        "code": "12.35.70.140.35",
+        "label": "Q&A",
+        "level": 5,
+        "definition": "Answers audience-submitted or pre-generated questions in a conversational tone."
+      }
+    ],
+    "12.35.71.141": [
+      {
+        "code": "12.35.71.141.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      },
+      {
+        "code": "12.35.71.141.59",
+        "label": "Vlogs",
+        "level": 5,
+        "definition": "Captures daily life, travel, or thought processes in a casual, documentary style."
+      }
+    ],
+    "12.35.71.142": [
+      {
+        "code": "12.35.71.142.52",
+        "label": "Tips",
+        "level": 5,
+        "definition": "Gives bite-sized advice or insights on how to improve in a given area."
+      },
+      {
+        "code": "12.35.71.142.13",
+        "label": "Demo",
+        "level": 5,
+        "definition": "Explores a topic in high detail, usually beyond surface-level information."
+      }
+    ],
+    "12.36.72.143": [
+      {
+        "code": "12.36.72.143.59",
+        "label": "Vlogs",
+        "level": 5,
+        "definition": "Captures daily life, travel, or thought processes in a casual, documentary style."
+      },
+      {
+        "code": "12.36.72.143.27",
+        "label": "Montage",
+        "level": 5,
+        "definition": "A fast-paced edit showing a sequence of related visuals or actions, often set to music."
+      }
+    ],
+    "12.36.72.144": [
+      {
+        "code": "12.36.72.144.53",
+        "label": "Tour",
+        "level": 5,
+        "definition": "Takes the viewer through a space, platform, or experience step by step."
+      },
+      {
+        "code": "12.36.72.144.48",
+        "label": "Storytime",
+        "level": 5,
+        "definition": "Shares a personal or fictional narrative with a hook, pacing, and emotional arc."
+      }
+    ],
+    "12.36.73.145": [
+      {
+        "code": "12.36.73.145.10",
+        "label": "Compilation",
+        "level": 5,
+        "definition": "Combines multiple short clips or moments into a single cohesive video."
+      },
+      {
+        "code": "12.36.73.145.34",
+        "label": "Prank",
+        "level": 5,
+        "definition": "Content where one party surprises or tricks another for comedic effect."
+      }
+    ],
+    "11.34.69.137": [
+      {
+        "code": "11.34.69.137.13",
+        "label": "Demo",
+        "level": 5,
+        "definition": "Explores a topic in high detail, usually beyond surface-level information."
+      },
+      {
+        "code": "11.34.69.137.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      }
+    ],
+    "11.34.68.136": [
+      {
+        "code": "11.34.68.136.50",
+        "label": "Test",
+        "level": 5,
+        "definition": "Puts a product, method, or assumption through a structured trial to evaluate results."
+      },
+      {
+        "code": "11.34.68.136.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      }
+    ],
+    "10.32.64.128": [
+      {
+        "code": "10.32.64.128.19",
+        "label": "Guide",
+        "level": 5,
+        "definition": "Walks the viewer through a task, platform, or system in a structured format."
+      },
+      {
+        "code": "10.32.64.128.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      }
+    ],
+    "10.32.65.129": [
+      {
+        "code": "10.32.65.129.59",
+        "label": "Vlogs",
+        "level": 5,
+        "definition": "Captures daily life, travel, or thought processes in a casual, documentary style."
+      },
+      {
+        "code": "10.32.65.129.46",
+        "label": "Showcase",
+        "level": 5,
+        "definition": "Displays the features or value of a single product, creation, or talent."
+      }
+    ],
+    "10.32.65.130": [
+      {
+        "code": "10.32.65.130.41",
+        "label": "Reviews",
+        "level": 5,
+        "definition": "Evaluates and shares opinions on a product, service, or media item."
+      },
+      {
+        "code": "10.32.65.130.21",
+        "label": "Haul",
+        "level": 5,
+        "definition": "Displays and discusses items recently purchased, often with mini-reviews."
+      }
+    ],
+    "11.33.66.131": [
+      {
+        "code": "11.33.66.131.22",
+        "label": "Highlight",
+        "level": 5,
+        "definition": "Shows standout or peak moments from a longer piece of content or event."
+      },
+      {
+        "code": "11.33.66.131.27",
+        "label": "Montage",
+        "level": 5,
+        "definition": "A fast-paced edit showing a sequence of related visuals or actions, often set to music."
+      }
+    ],
+    "11.33.66.132": [
+      {
+        "code": "11.33.66.132.04",
+        "label": "Breakdown",
+        "level": 5,
+        "definition": "Dissects a topic into parts for clarity, often using visuals or step-by-step commentary."
+      },
+      {
+        "code": "11.33.66.132.02",
+        "label": "Analysis",
+        "level": 5,
+        "definition": "Evaluates or interprets a subject through critical reasoning or structured breakdown."
+      }
+    ],
+    "11.33.67.133": [
+      {
+        "code": "11.33.67.133.25",
+        "label": "Live",
+        "level": 5,
+        "definition": "Content streamed in real-time, often interactive or unedited."
+      },
+      {
+        "code": "11.33.67.133.38",
+        "label": "Recap",
+        "level": 5,
+        "definition": "Summarizes key events, lessons, or takeaways from a larger experience or episode."
+      }
+    ],
+    "11.33.67.134": [
+      {
+        "code": "11.33.67.134.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      },
+      {
+        "code": "11.33.67.134.52",
+        "label": "Tips",
+        "level": 5,
+        "definition": "Gives bite-sized advice or insights on how to improve in a given area."
+      }
+    ],
+    "11.34.68.135": [
+      {
+        "code": "11.34.68.135.59",
+        "label": "Vlogs",
+        "level": 5,
+        "definition": "Captures daily life, travel, or thought processes in a casual, documentary style."
+      }
+    ],
+    "09.27.55.109": [
+      {
+        "code": "09.27.55.109.44",
+        "label": "Session",
+        "level": 5,
+        "definition": "Captures an unbroken time block of activity like music, drawing, or discussion."
+      },
+      {
+        "code": "09.27.55.109.19",
+        "label": "Guide",
+        "level": 5,
+        "definition": "Walks the viewer through a task, platform, or system in a structured format."
+      }
+    ],
+    "09.27.54.107": [
+      {
+        "code": "09.27.54.107.15",
+        "label": "Explained",
+        "level": 5,
+        "definition": "Simplifies a topic or concept through accessible language and examples."
+      },
+      {
+        "code": "09.27.54.107.52",
+        "label": "Tips",
+        "level": 5,
+        "definition": "Gives bite-sized advice or insights on how to improve in a given area."
+      }
+    ],
+    "09.27.54.108": [
+      {
+        "code": "09.27.54.108.44",
+        "label": "Session",
+        "level": 5,
+        "definition": "Captures an unbroken time block of activity like music, drawing, or discussion."
+      },
+      {
+        "code": "09.27.54.108.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      }
+    ],
+    "11.33.66": [
+      {
+        "code": "11.33.66.131",
+        "label": "Soccer Highlights",
+        "level": 4,
+        "definition": "Edits or commentates on key plays, goals, or moments from recent or iconic soccer matches."
+      },
+      {
+        "code": "11.33.66.132",
+        "label": "Basketball Plays",
+        "level": 4,
+        "definition": "Breaks down offensive or defensive strategies, key moves, or standout performances in basketball."
+      }
+    ],
+    "10.32.65": [
+      {
+        "code": "10.32.65.130",
+        "label": "Brand Collabs",
+        "level": 4,
+        "definition": "Content showcasing or reviewing a sponsored partnership between creator and brand."
+      },
+      {
+        "code": "10.32.65.129",
+        "label": "Lifestyle Posts",
+        "level": 4,
+        "definition": "Presents aspirational or everyday content reflecting a creator’s identity and routines."
+      }
+    ],
+    "10.32.64": [
+      {
+        "code": "10.32.64.128",
+        "label": "YouTube Growth",
+        "level": 4,
+        "definition": "Teaches optimization strategies for discoverability, retention, and monetization on YouTube."
+      },
+      {
+        "code": "10.32.64.127",
+        "label": "TikTok Tips",
+        "level": 4,
+        "definition": "Gives tactical advice for growth, visibility, or content success on TikTok."
+      }
+    ],
+    "10.31.63": [
+      {
+        "code": "10.31.63.126",
+        "label": "Group Events",
+        "level": 4,
+        "definition": "Recaps or plans events attended by online or IRL communities, often with social value."
+      },
+      {
+        "code": "10.31.63.125",
+        "label": "Forum Chats",
+        "level": 4,
+        "definition": "Captures or reenacts online conversations from group threads or message boards."
+      }
+    ],
+    "10.31.62": [
+      {
+        "code": "10.31.62.123",
+        "label": "Cosplay Creations",
+        "level": 4,
+        "definition": "Documents the design, build, and performance of character costumes from fandoms."
+      },
+      {
+        "code": "10.31.62.124",
+        "label": "Fan Theories",
+        "level": 4,
+        "definition": "Analyzes fictional media to propose hidden meanings, predictions, or alternate interpretations."
+      }
+    ],
+    "10.30.61": [
+      {
+        "code": "10.30.61.122",
+        "label": "Equality Drives",
+        "level": 4,
+        "definition": "Promotes access, rights, or representation for marginalized groups through campaigns or calls to action."
+      },
+      {
+        "code": "10.30.61.121",
+        "label": "Health Awareness",
+        "level": 4,
+        "definition": "Shares information on illness, conditions, or wellness campaigns to increase public understanding."
+      }
+    ],
+    "10.30.60": [
+      {
+        "code": "10.30.60.120",
+        "label": "Environmental Causes",
+        "level": 4,
+        "definition": "Highlights conservation, sustainability, or climate-focused education or activism."
+      },
+      {
+        "code": "10.30.60.119",
+        "label": "Social Justice",
+        "level": 4,
+        "definition": "Advocates for equality or systemic reform through storytelling, education, or direct action."
+      }
+    ],
+    "10.29.59": [
+      {
+        "code": "10.29.59.118",
+        "label": "Parenting Moments",
+        "level": 4,
+        "definition": "Captures daily life, reflections, or challenges of raising children."
+      },
+      {
+        "code": "10.29.59.117",
+        "label": "Kid Adventures",
+        "level": 4,
+        "definition": "Family-focused content showcasing play, learning, and outings from a child's perspective."
+      }
+    ],
+    "11.33.67": [
+      {
+        "code": "11.33.67.133",
+        "label": "Tennis Matches",
+        "level": 4,
+        "definition": "Shows full matches, rally highlights, or tactical breakdowns of pro or amateur tennis."
+      },
+      {
+        "code": "11.33.67.134",
+        "label": "Golf Techniques",
+        "level": 4,
+        "definition": "Teaches grip, swing, aim, or short game fundamentals in golf instruction or analysis."
+      }
+    ],
+    "11.34.68": [
+      {
+        "code": "11.34.68.135",
+        "label": "Endurance Runs",
+        "level": 4,
+        "definition": "Covers long-distance running routines, training, and mental strategies for stamina."
+      },
+      {
+        "code": "11.34.68.136",
+        "label": "Power Lifting",
+        "level": 4,
+        "definition": "Showcases strength-based lifts like squats, deadlifts, or bench press, often in training or competition."
+      }
+    ],
+    "05.15.91.181": [
+      {
+        "code": "05.15.91.181.15",
+        "label": "Explained",
+        "level": 5,
+        "definition": "Simplifies a topic or concept through accessible language and examples."
+      },
+      {
+        "code": "05.15.91.181.12",
+        "label": "Deep Dive",
+        "level": 5,
+        "definition": "Presents two or more sides of an argument, often in direct or live conversation."
+      }
+    ],
+    "12.36.73": [
+      {
+        "code": "12.36.73.146",
+        "label": "Trick Shows",
+        "level": 4,
+        "definition": "Demonstrates trained animal behaviors, performance routines, or obedience challenges."
+      },
+      {
+        "code": "12.36.73.145",
+        "label": "Funny Moments",
+        "level": 4,
+        "definition": "Showcases humorous, unexpected, or charming clips involving pets or animals."
+      }
+    ],
+    "12.36.72": [
+      {
+        "code": "12.36.72.144",
+        "label": "Pet Adventures",
+        "level": 4,
+        "definition": "Captures outdoor or travel-based experiences through the lens of a pet’s life."
+      },
+      {
+        "code": "12.36.72.143",
+        "label": "Daily Routines",
+        "level": 4,
+        "definition": "Walks through an animal’s (often pet’s) schedule, habits, or personality-driven behaviors."
+      }
+    ],
+    "12.35.71": [
+      {
+        "code": "12.35.71.141",
+        "label": "Dog Grooming",
+        "level": 4,
+        "definition": "Demonstrates how to wash, trim, or maintain dogs’ coats, nails, and hygiene."
+      },
+      {
+        "code": "12.35.71.142",
+        "label": "Cat Grooming",
+        "level": 4,
+        "definition": "Shows techniques and products for caring for feline fur, nails, or health."
+      }
+    ],
+    "12.35.70": [
+      {
+        "code": "12.35.70.140",
+        "label": "Vet Tips",
+        "level": 4,
+        "definition": "Shares veterinary knowledge about animal care, illness, and best practices."
+      },
+      {
+        "code": "12.35.70.139",
+        "label": "Diet Advice",
+        "level": 4,
+        "definition": "Gives nutritional guidance tailored to lifestyle, goals, or health conditions."
+      }
+    ],
+    "11.34.69": [
+      {
+        "code": "11.34.69.138",
+        "label": "Swing Mechanics",
+        "level": 4,
+        "definition": "Explains or refines swinging technique in sports like baseball, golf, or tennis."
+      },
+      {
+        "code": "11.34.69.137",
+        "label": "Dribbling Drills",
+        "level": 4,
+        "definition": "Teaches movement and control skills for sports like basketball or soccer through guided practice."
+      }
+    ],
+    "10.29.58": [
+      {
+        "code": "10.29.58.116",
+        "label": "Life Updates",
+        "level": 4,
+        "definition": "Creator-led content reflecting on personal change, milestones, or ongoing life events."
+      },
+      {
+        "code": "10.29.58.115",
+        "label": "Travel Diaries",
+        "level": 4,
+        "definition": "Personal vlogs sharing travel experiences, thoughts, and cultural exploration in real time."
+      }
+    ],
+    "09.28.57": [
+      {
+        "code": "09.28.57.114",
+        "label": "Astrology Insights",
+        "level": 4,
+        "definition": "Interprets charts, signs, or transits to give spiritual or personal growth commentary."
+      },
+      {
+        "code": "09.28.57.113",
+        "label": "Yoga Practices",
+        "level": 4,
+        "definition": "Demonstrates physical sequences and breathwork tied to yoga traditions and styles."
+      }
+    ],
+    "08.25.51.101": [
+      {
+        "code": "08.25.51.101.32",
+        "label": "Planning",
+        "level": 5,
+        "definition": "Content that walks through goal-setting, strategy, or logistical prep for future actions."
+      },
+      {
+        "code": "08.25.51.101.15",
+        "label": "Explained",
+        "level": 5,
+        "definition": "Simplifies a topic or concept through accessible language and examples."
+      }
+    ],
+    "08.25.51.102": [
+      {
+        "code": "08.25.51.102.52",
+        "label": "Tips",
+        "level": 5,
+        "definition": "Gives bite-sized advice or insights on how to improve in a given area."
+      },
+      {
+        "code": "08.25.51.102.07",
+        "label": "Challenge",
+        "level": 5,
+        "definition": "Content built around a task, constraint, or dare, often designed to test limits or entertain."
+      }
+    ],
+    "09.26.52.103": [
+      {
+        "code": "09.26.52.103.19",
+        "label": "Guide",
+        "level": 5,
+        "definition": "Walks the viewer through a task, platform, or system in a structured format."
+      },
+      {
+        "code": "09.26.52.103.39",
+        "label": "Recipes",
+        "level": 5,
+        "definition": "Teaches how to prepare a specific dish with ingredients, steps, and tips."
+      }
+    ],
+    "08.25.50.100": [
+      {
+        "code": "08.25.50.100.17",
+        "label": "FAQ",
+        "level": 5,
+        "definition": "Fan-edited footage focusing on a specific performer, moment, or angle during a live event."
+      },
+      {
+        "code": "08.25.50.100.19",
+        "label": "Guide",
+        "level": 5,
+        "definition": "Walks the viewer through a task, platform, or system in a structured format."
+      }
+    ],
+    "09.26.52.104": [
+      {
+        "code": "09.26.52.104.41",
+        "label": "Reviews",
+        "level": 5,
+        "definition": "Evaluates and shares opinions on a product, service, or media item."
+      },
+      {
+        "code": "09.26.52.104.09",
+        "label": "Comparison",
+        "level": 5,
+        "definition": "Contrasts two or more options, tools, products, or perspectives."
+      }
+    ],
+    "09.26.53.105": [
+      {
+        "code": "09.26.53.105.56",
+        "label": "Tutorials",
+        "level": 5,
+        "definition": "Instructs the viewer on how to do something through guided, hands-on instruction."
+      }
+    ],
+    "09.26.53.106": [
+      {
+        "code": "09.26.53.106.59",
+        "label": "Vlogs",
+        "level": 5,
+        "definition": "Captures daily life, travel, or thought processes in a casual, documentary style."
+      },
+      {
+        "code": "09.26.53.106.52",
+        "label": "Tips",
+        "level": 5,
+        "definition": "Gives bite-sized advice or insights on how to improve in a given area."
+      }
+    ],
+    "05.15.91": [
+      {
+        "code": "05.15.91.182",
+        "label": "Event Mysteries",
+        "level": 4,
+        "definition": "Investigates unexplained public events or phenomena through timelines and theories."
+      },
+      {
+        "code": "05.15.91.181",
+        "label": "Government Secrets",
+        "level": 4,
+        "definition": "Explores declassified documents, covert programs, or conspiracy-related theories."
+      }
+    ],
+    "09.28.56": [
+      {
+        "code": "09.28.56.112",
+        "label": "Energy Healing",
+        "level": 4,
+        "definition": "Covers reiki, chakras, aura cleansing, and other metaphysical or spiritual healing traditions."
+      },
+      {
+        "code": "09.28.56.111",
+        "label": "Herbal Remedies",
+        "level": 4,
+        "definition": "Explores plant-based health practices like tinctures, teas, and traditional healing methods."
+      }
+    ],
+    "09.27.55": [
+      {
+        "code": "09.27.55.110",
+        "label": "Breathing Exercises",
+        "level": 4,
+        "definition": "Teaches breath control and rhythm to reduce stress, increase awareness, or aid recovery."
+      },
+      {
+        "code": "09.27.55.109",
+        "label": "Meditation",
+        "level": 4,
+        "definition": "Guides viewers through focused mindfulness practices or techniques to quiet the mind."
+      }
+    ],
+    "09.27.54": [
+      {
+        "code": "09.27.54.108",
+        "label": "Stress Relief",
+        "level": 4,
+        "definition": "Presents exercises, routines, or tools to manage daily tension and emotional overwhelm."
+      },
+      {
+        "code": "09.27.54.107",
+        "label": "Counseling Tips",
+        "level": 4,
+        "definition": "Offers mental health advice or therapy-informed guidance from licensed or experience-based perspectives."
+      }
+    ],
+    "09.26.53": [
+      {
+        "code": "09.26.53.105",
+        "label": "Cardio Workouts",
+        "level": 4,
+        "definition": "Demonstrates aerobic routines like running, cycling, or HIIT for endurance and heart health."
+      },
+      {
+        "code": "09.26.53.106",
+        "label": "Strength Programs",
+        "level": 4,
+        "definition": "Shares planned fitness programs focused on building muscle through progressive overload."
+      }
+    ],
+    "09.26.52": [
+      {
+        "code": "09.26.52.104",
+        "label": "Supplements",
+        "level": 4,
+        "definition": "Reviews or explains use of vitamins, powders, or wellness products to support physical health."
+      },
+      {
+        "code": "09.26.52.103",
+        "label": "Diet Plans",
+        "level": 4,
+        "definition": "Provides structured meal planning advice for health, weight, or lifestyle goals."
+      }
+    ],
+    "08.25.51": [
+      {
+        "code": "08.25.51.102",
+        "label": "Emergency Funds",
+        "level": 4,
+        "definition": "Teaches how to save, structure, and calculate short-term financial reserves for unexpected costs."
+      },
+      {
+        "code": "08.25.51.101",
+        "label": "Retirement Planning",
+        "level": 4,
+        "definition": "Explains how to build long-term financial plans for retirement, including accounts, timelines, and strategy."
+      }
+    ],
+    "12.36.73.146": [
+      {
+        "code": "12.36.73.146.46",
+        "label": "Showcase",
+        "level": 5,
+        "definition": "Displays the features or value of a single product, creation, or talent."
+      }
+    ]
+  }
+}
