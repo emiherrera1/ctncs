@@ -1,7 +1,5 @@
-# ctncs
-standard
-
 # CTNCS: Content Terminal Niche Classification Standard
+A content classification standard.
 
 **Version:** v1.0  
 **Author:** Emily Herrera  
