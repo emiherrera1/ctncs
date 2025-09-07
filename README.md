@@ -62,7 +62,7 @@ This design allows CTNCS to be distributed as a flat file while preserving its h
 
 ## How to Cite CTNCS
 Herrera, Emily. CTNCS: Content Terminal Niche Classification Standard. v1.0 (2025).
-Creative Commons Attribution 4.0. https://ctncs.system
+Creative Commons Attribution 4.0. [contentterminal.co](https://contentterminal.co)
 
 ---
 
