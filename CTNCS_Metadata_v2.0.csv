@@ -5,6 +5,7 @@ release_mode,Yes,"1 = live, 2 = standing, 3 = derivative","The attention market 
 secondary_path,No,"A CTNCS path, Levels 1 to 4 (e.g. 03.08)",A second subject the release substantially covers.,At most one (Rule 6.9). Never a Sector 17 node.
 sensitive_topics,No,"Semicolon-separated Sector 17 paths, Levels 2 to 4 (e.g. 17.52.118.221)",Every Sector 17 node the release substantially engages with.,Use the most specific node; leave empty when none applies (Rule 7.1). Sector 17 is never a primary or secondary path.
 secondary_format,No,"A Format code (01 to 74, except retired 25)",A second structure used for a substantial part of the runtime.,At most one (Rule 6.9).
+unlisted_format,No,"A Format code (01 to 74, except retired 25)",The structure the release actually uses when it is not one of the primary Sub-Niche's common formats. The ID carries the closest listed format.,"Logs the gap so the format can be considered for that Sub-Niche at the next revision (Rule 6.10, Section 12). Leave empty when the structure is listed."
 platform_format,No,"Free text: Shorts, Reels, Story, Carousel, Episode",The platform's own surface or container for the release.,Context only; never changes the CTNCS ID.
 language,No,"ISO 639-1 code (en, es, pt...)",Primary spoken or written language of the release.,
 region,No,"ISO 3166-1 alpha-2 code (US, GB, BR...)",Creator's home market or the release's target region.,
