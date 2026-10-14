@@ -68,7 +68,7 @@
                 },
                 {
                   "code": "01.01.002.004",
-                  "label": "Season Highlights",
+                  "label": "Season Arcs & Finales",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Highlights seasonal arcs or finales with emphasis on narrative payoff or fan impact.",
@@ -180,7 +180,7 @@
                 },
                 {
                   "code": "01.03.005.010",
-                  "label": "Indie Clips",
+                  "label": "Indie & Experimental Music",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Highlights independently produced music videos or audio-visual experiments.",
@@ -716,7 +716,7 @@
                 },
                 {
                   "code": "02.59.136.274",
-                  "label": "Immersion & Polyglot Vlogs",
+                  "label": "Immersion & Polyglot Life",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Living in or switching between languages, often with native-speaker conversations.",
@@ -940,7 +940,7 @@
                 },
                 {
                   "code": "03.08.016.032",
-                  "label": "Grilling Tips",
+                  "label": "Grilling & BBQ",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Offers instruction or techniques for grilling meat, vegetables, or specialty items over open flame or heat.",
@@ -1711,7 +1711,7 @@
               "children": [
                 {
                   "code": "04.13.026.051",
-                  "label": "Cryptocurrencies",
+                  "label": "Crypto Protocols & Technology",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Breaks down how digital currencies function, how to trade them, and the risks or innovations they bring.",
@@ -1861,7 +1861,7 @@
               "children": [
                 {
                   "code": "05.15.030.059",
-                  "label": "Legislation Reviews",
+                  "label": "Legislation & Bills",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Breaks down bills, laws, or political decisions with context, critique, or explainer framing.",
@@ -1924,7 +1924,7 @@
               "children": [
                 {
                   "code": "05.15.104.249",
-                  "label": "Conflict Explainers",
+                  "label": "Conflict Background & History",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Background, maps, and timelines explaining a current or recent war or conflict.",
@@ -1946,7 +1946,7 @@
                 },
                 {
                   "code": "05.15.104.251",
-                  "label": "Conflict Updates",
+                  "label": "Active Conflicts",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Ongoing coverage of developments in an active conflict.",
@@ -2563,7 +2563,7 @@
                 },
                 {
                   "code": "07.20.040.080",
-                  "label": "Casual Sessions",
+                  "label": "Casual Play",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Relaxed or recreational playthroughs that prioritize fun, exploration, or storytelling.",
@@ -2747,7 +2747,7 @@
               "children": [
                 {
                   "code": "07.60.138.277",
-                  "label": "Competitive Shooter Gameplay",
+                  "label": "Competitive Shooters",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Matches, clutches, and highlights from shooter and battle royale games.",
@@ -2778,7 +2778,7 @@
               "children": [
                 {
                   "code": "07.60.139.279",
-                  "label": "RPG Playthroughs",
+                  "label": "Story-Driven RPGs",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Long-form playthroughs of role-playing and open-world games.",
@@ -2871,7 +2871,7 @@
               "children": [
                 {
                   "code": "07.60.142.285",
-                  "label": "Strategy Gameplay",
+                  "label": "Real-Time & Turn-Based Strategy",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Real-time and turn-based strategy matches and campaign play.",
@@ -2902,7 +2902,7 @@
               "children": [
                 {
                   "code": "07.60.143.287",
-                  "label": "Horror Playthroughs",
+                  "label": "Horror Games",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Horror games played on camera, built around reactions and scares.",
@@ -3124,7 +3124,7 @@
               "children": [
                 {
                   "code": "08.24.048.095",
-                  "label": "E-Commerce",
+                  "label": "Online Store Operations",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Covers storefronts, product launches, fulfillment, and digital retail best practices.",
@@ -3278,7 +3278,7 @@
                 },
                 {
                   "code": "08.46.096.193",
-                  "label": "Resume Tips",
+                  "label": "Resumes & Applications",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Gives advice on structure, tone, formatting, and keyword optimization for job applications.",
@@ -3492,7 +3492,7 @@
               "children": [
                 {
                   "code": "09.27.054.107",
-                  "label": "Counseling Tips",
+                  "label": "Coping Skills",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Offers mental health advice or therapy-informed guidance from licensed or experience-based perspectives.",
@@ -3770,7 +3770,7 @@
               "children": [
                 {
                   "code": "10.29.058.115",
-                  "label": "Travel Diaries",
+                  "label": "Personal Travel",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Personal vlogs sharing travel experiences, thoughts, and cultural exploration in real time.",
@@ -3995,7 +3995,7 @@
               "children": [
                 {
                   "code": "10.32.064.127",
-                  "label": "TikTok Tips",
+                  "label": "TikTok Growth",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Gives tactical advice for growth, visibility, or content success on TikTok.",
@@ -4305,7 +4305,7 @@
               "children": [
                 {
                   "code": "11.63.152.310",
-                  "label": "Game Day Vlogs",
+                  "label": "Game Day & Tailgating",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Attending games, tailgates, and stadium experiences.",
@@ -4407,7 +4407,7 @@
               "children": [
                 {
                   "code": "11.64.155.316",
-                  "label": "Wrestling Recaps",
+                  "label": "Matches & Events",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Recaps and reactions to wrestling shows and pay-per-views.",
@@ -4448,7 +4448,7 @@
               "children": [
                 {
                   "code": "11.65.156.318",
-                  "label": "Race Recaps",
+                  "label": "Races & Results",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Race highlights, results, and championship implications.",
@@ -4488,7 +4488,7 @@
               "children": [
                 {
                   "code": "11.66.157.320",
-                  "label": "Riding & Sessions",
+                  "label": "Board Riding",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Skate, surf, and snow riding: sessions, lines, and standout tricks.",
@@ -4611,7 +4611,7 @@
                 },
                 {
                   "code": "12.35.070.140",
-                  "label": "Vet Tips",
+                  "label": "Preventive Care & Vet Visits",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Shares veterinary knowledge about animal care, illness, and best practices.",
@@ -5100,7 +5100,7 @@
               "children": [
                 {
                   "code": "13.41.084.167",
-                  "label": "Research Updates",
+                  "label": "New Research",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Summarizes recent findings, papers, or breakthroughs from academic or lab environments.",
@@ -5111,7 +5111,7 @@
                 },
                 {
                   "code": "13.41.084.168",
-                  "label": "Breakthrough Reports",
+                  "label": "Breakthroughs",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Highlights major scientific, medical, or tech advancements with broad relevance.",
@@ -5232,7 +5232,7 @@
                 },
                 {
                   "code": "14.43.087.174",
-                  "label": "Camping Guides",
+                  "label": "Camping",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Teaches how to prepare for and enjoy outdoor overnight trips, gear, and site selection.",
@@ -5323,7 +5323,7 @@
               "children": [
                 {
                   "code": "14.44.090.179",
-                  "label": "Destination Guides",
+                  "label": "Destinations",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Offers localized tips, activities, or cultural notes for travel planning.",
@@ -5445,7 +5445,7 @@
                 },
                 {
                   "code": "15.53.133.266",
-                  "label": "Ownership Diaries",
+                  "label": "Long-Term Ownership",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Long-term updates on owning a specific car, including costs and problems.",
@@ -5545,7 +5545,7 @@
               "children": [
                 {
                   "code": "15.58.130.259",
-                  "label": "EV Reviews",
+                  "label": "EV Models",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Reviews and comparisons of electric and hybrid models.",
@@ -5637,7 +5637,7 @@
                 },
                 {
                   "code": "16.51.111.208",
-                  "label": "Theology Explainers",
+                  "label": "Theology & Doctrine",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Accessible explanations of doctrine, denominations, and theological debates.",
@@ -5730,7 +5730,7 @@
                 },
                 {
                   "code": "16.51.114.214",
-                  "label": "Faith Journey Vlogs",
+                  "label": "Faith Journeys",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Ongoing personal documentation of faith, doubt, or deconstruction over time.",
@@ -5770,7 +5770,7 @@
                 },
                 {
                   "code": "16.55.115.216",
-                  "label": "Fasting & Observance Logs",
+                  "label": "Fasting & Observance",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Day-by-day documentation of a fast, pilgrimage, or religious observance.",
@@ -6107,7 +6107,7 @@
                 },
                 {
                   "code": "17.56.124.234",
-                  "label": "Casino & Gambling Streams",
+                  "label": "Casino & Slots",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Live or recorded casino play, slots, poker, and other wagering.",
@@ -6142,7 +6142,7 @@
                 },
                 {
                   "code": "17.56.125.236",
-                  "label": "Cannabis Culture",
+                  "label": "Cannabis Content",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Cannabis products, legalization, and lifestyle content.",
@@ -6165,7 +6165,7 @@
               "children": [
                 {
                   "code": "17.56.126.237",
-                  "label": "Firearms Reviews",
+                  "label": "Firearms & Accessories",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Reviews, comparisons, and demonstrations of firearms and accessories.",
@@ -6177,7 +6177,7 @@
                 },
                 {
                   "code": "17.56.126.238",
-                  "label": "Hunting & Shooting Sports",
+                  "label": "Hunting & Shooting Content",
                   "level": 4,
                   "level_name": "Content Style",
                   "definition": "Hunting trips, competitive shooting, and range instruction.",

@@ -6,7 +6,7 @@ taxonomy_version,code,parent_code,level,level_name,label,definition,typical_form
 2.0,01.01.001.002,01.01.001,4,Content Style,Indie Film Analysis,"Explores indie cinema through critical reflection, narrative themes, and artistic style.",15;24,Explained;Lists,,FALSE,v1.0
 2.0,01.01.002,01.01,3,Niche,Television,"Scripted television series: episodes, arcs, characters, and the conversation around them.",,,Excludes film (01.01.001).,FALSE,v1.0
 2.0,01.01.002.003,01.01.002,4,Content Style,Episode Summaries,"Summarizes episodes through plot breakdowns, character arcs, and major developments.",38;59,Recap;Vlogs,,FALSE,v1.0
-2.0,01.01.002.004,01.01.002,4,Content Style,Season Highlights,Highlights seasonal arcs or finales with emphasis on narrative payoff or fan impact.,22;27,Highlight;Montage,,FALSE,v1.0
+2.0,01.01.002.004,01.01.002,4,Content Style,Season Arcs & Finales,Highlights seasonal arcs or finales with emphasis on narrative payoff or fan impact.,22;27,Highlight;Montage,,FALSE,v1.0
 2.0,01.02,01,2,Category,Comedy,"Humor-forward content designed to entertain through skits, satire, parody, improv, or stand-up.",,,,FALSE,v1.0
 2.0,01.02.003,01.02,3,Niche,Sketch & Improv Comedy,Scripted sketches and improvised scenes performed for laughs.,,,Excludes pretend play made for kids (01.67.161). Parody of a specific genre keeps that genre's path with Format 67 Parody.,FALSE,v1.0
 2.0,01.02.003.005,01.02.003,4,Content Style,Short-Form Sketches,"Short scripted comedy or narrative sketches designed for quick, shareable impact.",64;66,Skit;Reaction,,FALSE,v1.0
@@ -17,7 +17,7 @@ taxonomy_version,code,parent_code,level,level_name,label,definition,typical_form
 2.0,01.03,01,2,Category,Music & Performance,"Live or recorded expression through music, dance, acting, or talent-based performance.",,,,FALSE,v1.0
 2.0,01.03.005,01.03,3,Niche,Music Releases,"Recorded music and its visual releases: singles, music videos, and independent audio-visual work.",,,Excludes how music is written or produced (06.18) and live concerts (01.03.006).,FALSE,v1.0
 2.0,01.03.005.009,01.03.005,4,Content Style,Pop Releases,Showcases professionally released music content for mainstream distribution.,27,Montage,,FALSE,v1.0
-2.0,01.03.005.010,01.03.005,4,Content Style,Indie Clips,Highlights independently produced music videos or audio-visual experiments.,14;46,DIY;Showcase,,FALSE,v1.0
+2.0,01.03.005.010,01.03.005,4,Content Style,Indie & Experimental Music,Highlights independently produced music videos or audio-visual experiments.,14;46,DIY;Showcase,,FALSE,v1.0
 2.0,01.03.006,01.03,3,Niche,Concerts & Stage Performance,"Music, theater, dance, or busking performed before an audience, at venues or in public spaces.",,,Excludes kids' songs (01.67.159) and worship services (16.51.113).,FALSE,v1.0
 2.0,01.03.006.011,01.03.006,4,Content Style,Concert Footage,"Features footage from concerts, festivals, or live musical events with audience engagement.",22;30,Highlight;Performance,,FALSE,v1.0
 2.0,01.03.006.012,01.03.006,4,Content Style,Street Shows,"Street-level performances including dance, theater, or busking recorded in public spaces.",30;59,Performance;Vlogs,,FALSE,v1.0
@@ -69,7 +69,7 @@ taxonomy_version,code,parent_code,level,level_name,label,definition,typical_form
 2.0,02.59.135.272,02.59.135,4,Content Style,Grammar & Vocabulary,"Targeted lessons on grammar rules, word lists, and common mistakes.",15;24,Explained;Lists,,FALSE,v2.0
 2.0,02.59.136,02.59,3,Niche,Language Learning Journeys,"Documenting the process of learning a language, including challenges, progress, and immersion.",,,,FALSE,v2.0
 2.0,02.59.136.273,02.59.136,4,Content Style,Language Challenges,"Time-boxed challenges to learn or speak a language, with progress check-ins.",07;58,Challenge;Update,,FALSE,v2.0
-2.0,02.59.136.274,02.59.136,4,Content Style,Immersion & Polyglot Vlogs,"Living in or switching between languages, often with native-speaker conversations.",23;59,Interview;Vlogs,,FALSE,v2.0
+2.0,02.59.136.274,02.59.136,4,Content Style,Immersion & Polyglot Life,"Living in or switching between languages, often with native-speaker conversations.",23;59,Interview;Vlogs,,FALSE,v2.0
 2.0,02.59.137,02.59,3,Niche,Language & Culture,"Slang, idioms, accents, and the cultural context behind how a language is spoken.",,,,FALSE,v2.0
 2.0,02.59.137.275,02.59.137,4,Content Style,Slang & Idioms,"Everyday expressions, slang, and idioms native speakers actually use.",15;26,Explained;Mini,,FALSE,v2.0
 2.0,02.59.137.276,02.59.137,4,Content Style,Accent & Pronunciation,"Pronunciation coaching, accent comparisons, and accent challenges.",50;56,Test;Tutorials,,FALSE,v2.0
@@ -91,7 +91,7 @@ taxonomy_version,code,parent_code,level,level_name,label,definition,typical_form
 2.0,03.08.015.030,03.08.015,4,Content Style,Quick Meals,Demonstrates meals that can be prepared in 30 minutes or less for time-conscious audiences.,20;52,Hack;Tips,,FALSE,v1.0
 2.0,03.08.016,03.08,3,Niche,Cooking Techniques,"Techniques, methods, or principles used to prepare food or refine cooking skills.",,,,FALSE,v1.0
 2.0,03.08.016.031,03.08.016,4,Content Style,Baking Skills,"Demonstrates baking techniques including dough prep, timing, decoration, and ingredient handling.",13;19,Demo;Guide,,FALSE,v1.0
-2.0,03.08.016.032,03.08.016,4,Content Style,Grilling Tips,"Offers instruction or techniques for grilling meat, vegetables, or specialty items over open flame or heat.",52;59,Tips;Vlogs,,FALSE,v1.0
+2.0,03.08.016.032,03.08.016,4,Content Style,Grilling & BBQ,"Offers instruction or techniques for grilling meat, vegetables, or specialty items over open flame or heat.",52;59,Tips;Vlogs,,FALSE,v1.0
 2.0,03.08.101,03.08,3,Niche,Grocery Shopping,"Walks through shopping routines, product selection, or budgeting in grocery settings.",,,,FALSE,v1.0
 2.0,03.08.101.191,03.08.101,4,Content Style,Household Supplies,"Offers recommendations, routines, or tips for home cleanliness and daily function.",21;52,Haul;Tips,,FALSE,v1.0
 2.0,03.08.127,03.08,3,Niche,Taste Tests,"Trying, ranking, and reacting to foods, menus, and products, usually on camera and often against each other.",,,Excludes restaurant and food travel guides (14.42.086).,FALSE,v2.0
@@ -166,7 +166,7 @@ taxonomy_version,code,parent_code,level,level_name,label,definition,typical_form
 2.0,04.13.025.050,04.13.025,4,Content Style,Machine Learning,"Explains how ML models are structured, trained, and applied across tasks like prediction, classification, or personalization.",06;56,Case Study;Tutorials,,FALSE,v1.0
 2.0,04.13.025.341,04.13.025,4,Content Style,AI Tools & Productivity,"Demos and reviews of consumer AI tools for work, study, and creative tasks.",13;41,Demo;Reviews,,FALSE,v2.0
 2.0,04.13.026,04.13,3,Niche,Blockchain Tech,"Explains blockchain technology, decentralization, crypto, or smart contracts.",,,How blockchains and smart contracts work. Excludes trading and crypto markets (08.22.045).,FALSE,v1.0
-2.0,04.13.026.051,04.13.026,4,Content Style,Cryptocurrencies,"Breaks down how digital currencies function, how to trade them, and the risks or innovations they bring.",24;41,Lists;Reviews,,FALSE,v1.0
+2.0,04.13.026.051,04.13.026,4,Content Style,Crypto Protocols & Technology,"Breaks down how digital currencies function, how to trade them, and the risks or innovations they bring.",24;41,Lists;Reviews,,FALSE,v1.0
 2.0,04.13.026.052,04.13.026,4,Content Style,Smart Contracts,"Explains how blockchain-based contracts execute automatically, often using real-world examples or project walkthroughs.",02;19,Analysis;Guide,,FALSE,v1.0
 2.0,05,,1,Sector,News & Commentary,"Discusses current events, politics, cultural takes. Includes both factual updates and subjective analysis.",,,,FALSE,v1.0
 2.0,05.14,05,2,Category,Current Events,"Real-time or recent commentary on news, culture, or global developments.",,,,FALSE,v1.0
@@ -181,15 +181,15 @@ taxonomy_version,code,parent_code,level,level_name,label,definition,typical_form
 2.0,05.15.029.057,05.15.029,4,Content Style,Political Talk,"Discussion of current political issues among hosts, guests, or callers.",11;33,Debate;Podcasts,,FALSE,v1.0
 2.0,05.15.029.058,05.15.029,4,Content Style,Contested Issues,Controversial political and social issues where viewpoints sharply divide.,36,Rant,,FALSE,v1.0
 2.0,05.15.030,05.15,3,Niche,Policy Analysis,"Breakdowns or analysis of political issues, proposals, or legislative actions.",,,,FALSE,v1.0
-2.0,05.15.030.059,05.15.030,4,Content Style,Legislation Reviews,"Breaks down bills, laws, or political decisions with context, critique, or explainer framing.",04;15,Breakdown;Explained,,FALSE,v1.0
+2.0,05.15.030.059,05.15.030,4,Content Style,Legislation & Bills,"Breaks down bills, laws, or political decisions with context, critique, or explainer framing.",04;15,Breakdown;Explained,,FALSE,v1.0
 2.0,05.15.030.060,05.15.030,4,Content Style,Election Insights,"Analyzes candidates, voter behavior, polling data, or campaign strategy before or after elections.",02;24,Analysis;Lists,,FALSE,v1.0
 2.0,05.15.091,05.15,3,Niche,Conspiracy Theories,"Explores secretive narratives, alternate histories, or fringe theories critically or speculatively.",,,Excludes ghosts and unexplained phenomena (13.39.080).,FALSE,v1.0
 2.0,05.15.091.181,05.15.091,4,Content Style,Government Secrets,"Explores declassified documents, covert programs, or conspiracy-related theories.",12;15,Deep Dive;Explained,,FALSE,v1.0
 2.0,05.15.091.182,05.15.091,4,Content Style,Event Mysteries,Investigates unexplained public events or phenomena through timelines and theories.,11;48,Debate;Storytime,,FALSE,v1.0
 2.0,05.15.104,05.15,3,Niche,War and Conflicts,"Analyzes or recounts war history, military conflicts, or international relations.",,,,FALSE,v1.0
-2.0,05.15.104.249,05.15.104,4,Content Style,Conflict Explainers,"Background, maps, and timelines explaining a current or recent war or conflict.",04;15,Breakdown;Explained,,FALSE,v2.0
+2.0,05.15.104.249,05.15.104,4,Content Style,Conflict Background & History,"Background, maps, and timelines explaining a current or recent war or conflict.",04;15,Breakdown;Explained,,FALSE,v2.0
 2.0,05.15.104.250,05.15.104,4,Content Style,Military History,"Narrative and analytical history of past wars, battles, and military strategy.",12;65,Deep Dive;Documentary,,FALSE,v2.0
-2.0,05.15.104.251,05.15.104,4,Content Style,Conflict Updates,Ongoing coverage of developments in an active conflict.,58;74,Update;Report,,FALSE,v2.0
+2.0,05.15.104.251,05.15.104,4,Content Style,Active Conflicts,Ongoing coverage of developments in an active conflict.,58;74,Update;Report,,FALSE,v2.0
 2.0,05.15.104.252,05.15.104,4,Content Style,Veteran & Civilian Accounts,"First-person accounts from veterans, civilians, and others who lived through conflict.",23;48,Interview;Storytime,,FALSE,v2.0
 2.0,05.16,05,2,Category,Culture & Society,"Observations on identity, values, behavior, rituals, or subcultures within society.",,,,FALSE,v1.0
 2.0,05.16.031,05.16,3,Niche,Social Issues,"Content that explores social justice issues, equity, and systemic critique.",,,Commentary and analysis of social issues. Excludes advocacy and calls to action (10.30).,FALSE,v1.0
@@ -249,7 +249,7 @@ taxonomy_version,code,parent_code,level,level_name,label,definition,typical_form
 2.0,07.20,07,2,Category,Gameplay & Guides,"Playing video games and helping others play them, live or recorded.",,,,FALSE,v1.0
 2.0,07.20.040,07.20,3,Niche,Gameplay,"Video games being played, competitively or casually, live or recorded.",,,"Use for multi-game or genre-agnostic play. When one game's genre defines the content, use Game Genres (07.60).",FALSE,v1.0
 2.0,07.20.040.079,07.20.040,4,Content Style,Competitive Play,"Highlights high-stakes or ranked gaming, including strategy, commentary, and stakes.",22;72,Highlight;Playthrough,,FALSE,v1.0
-2.0,07.20.040.080,07.20.040,4,Content Style,Casual Sessions,"Relaxed or recreational playthroughs that prioritize fun, exploration, or storytelling.",59,Vlogs,,FALSE,v1.0
+2.0,07.20.040.080,07.20.040,4,Content Style,Casual Play,"Relaxed or recreational playthroughs that prioritize fun, exploration, or storytelling.",59,Vlogs,,FALSE,v1.0
 2.0,07.20.041,07.20,3,Niche,Game Guides,"Help completing games: story guides, puzzle solutions, and level strategies.",,,,FALSE,v1.0
 2.0,07.20.041.081,07.20.041,4,Content Style,Story Guides,"Explains plotlines, character arcs, or lore in narrative-driven games or media.",19;60,Guide;Walkthrough,,FALSE,v1.0
 2.0,07.20.041.082,07.20.041,4,Content Style,Puzzle Solutions,"Walks through logic, clues, or completion strategies for puzzles or challenge-based content.",52;56,Tips;Tutorials,,FALSE,v1.0
@@ -267,10 +267,10 @@ taxonomy_version,code,parent_code,level,level_name,label,definition,typical_form
 2.0,07.21.168.345,07.21.168,4,Content Style,Casino Play,"Slots, table games, and casino sessions played on camera.",07;44,Challenge;Session,,FALSE,v2.0
 2.0,07.60,07,2,Category,Game Genres,Content organized around a specific genre of game and the communities that form around it.,,,Use when a game's genre defines the content. Excludes organized esports competition (07.21.043) and reviews of a specific title (07.21.042).,FALSE,v2.0
 2.0,07.60.138,07.60,3,Niche,Shooters & Battle Royale,First- and third-person shooters and battle royale games.,,,,FALSE,v2.0
-2.0,07.60.138.277,07.60.138,4,Content Style,Competitive Shooter Gameplay,"Matches, clutches, and highlights from shooter and battle royale games.",22;72,Highlight;Playthrough,,FALSE,v2.0
+2.0,07.60.138.277,07.60.138,4,Content Style,Competitive Shooters,"Matches, clutches, and highlights from shooter and battle royale games.",22;72,Highlight;Playthrough,,FALSE,v2.0
 2.0,07.60.138.278,07.60.138,4,Content Style,Loadouts & Tactics,"Best weapons, loadouts, maps, and tactics for a shooter title.",49;52,Strategy;Tips,,FALSE,v2.0
 2.0,07.60.139,07.60,3,Niche,RPGs & Open World,"Role-playing and open-world games built around story, exploration, and character progression.",,,,FALSE,v2.0
-2.0,07.60.139.279,07.60.139,4,Content Style,RPG Playthroughs,Long-form playthroughs of role-playing and open-world games.,44;60,Session;Walkthrough,,FALSE,v2.0
+2.0,07.60.139.279,07.60.139,4,Content Style,Story-Driven RPGs,Long-form playthroughs of role-playing and open-world games.,44;60,Session;Walkthrough,,FALSE,v2.0
 2.0,07.60.139.280,07.60.139,4,Content Style,Builds & Lore,"Character builds, hidden lore, and world-building explained.",12;19,Deep Dive;Guide,,FALSE,v2.0
 2.0,07.60.140,07.60,3,Niche,Sandbox & Creative Games,"Build-anything and user-generated game platforms such as Minecraft, Roblox, and creative modes.",,,,FALSE,v2.0
 2.0,07.60.140.281,07.60.140,4,Content Style,Builds & Creations,"Showcases of in-game builds, maps, and user-created experiences.",46;51,Showcase;Timelapse,,FALSE,v2.0
@@ -279,10 +279,10 @@ taxonomy_version,code,parent_code,level,level_name,label,definition,typical_form
 2.0,07.60.141.283,07.60.141,4,Content Style,Sports Game Modes,"Team-building, career, and ultimate-team modes, including pack openings.",44;57,Session;Unboxing,,FALSE,v2.0
 2.0,07.60.141.284,07.60.141,4,Content Style,Racing & Sim Racing,"Racing games and simulator setups, from casual races to competitive leagues.",41;72,Reviews;Playthrough,,FALSE,v2.0
 2.0,07.60.142,07.60,3,Niche,Strategy & Simulation,"Strategy games and life, city, and management simulators.",,,,FALSE,v2.0
-2.0,07.60.142.285,07.60.142,4,Content Style,Strategy Gameplay,Real-time and turn-based strategy matches and campaign play.,44;49,Session;Strategy,,FALSE,v2.0
+2.0,07.60.142.285,07.60.142,4,Content Style,Real-Time & Turn-Based Strategy,Real-time and turn-based strategy matches and campaign play.,44;49,Session;Strategy,,FALSE,v2.0
 2.0,07.60.142.286,07.60.142,4,Content Style,Life & Management Sims,"Life, city-building, farming, and business simulators.",51;59,Timelapse;Vlogs,,FALSE,v2.0
 2.0,07.60.143,07.60,3,Niche,Horror & Indie Games,"Horror titles and independent games, often discovered and spread through creators.",,,,FALSE,v2.0
-2.0,07.60.143.287,07.60.143,4,Content Style,Horror Playthroughs,"Horror games played on camera, built around reactions and scares.",44;66,Session;Reaction,,FALSE,v2.0
+2.0,07.60.143.287,07.60.143,4,Content Style,Horror Games,"Horror games played on camera, built around reactions and scares.",44;66,Session;Reaction,,FALSE,v2.0
 2.0,07.60.143.288,07.60.143,4,Content Style,Indie Discoveries,Spotlights and roundups of new or overlooked independent games.,18;24,First Impressions;Lists,,FALSE,v2.0
 2.0,07.60.144,07.60,3,Niche,Cozy & Mobile Games,Low-stress cozy games and games played primarily on phones.,,,,FALSE,v2.0
 2.0,07.60.144.289,07.60.144,4,Content Style,Cozy Games,"Relaxed play sessions in low-stress games, often with ambient or ASMR framing.",44;61,Session;ASMR,,FALSE,v2.0
@@ -304,7 +304,7 @@ taxonomy_version,code,parent_code,level,level_name,label,definition,typical_form
 2.0,08.23.047.094,08.23.047,4,Content Style,Leadership Training,"Offers skills and insights to develop leadership behavior, decision-making, and management.",23,Interview,,FALSE,v1.0
 2.0,08.24,08,2,Category,Digital Ventures,"Online product-building content — includes SaaS, tools, no-code, or startup projects.",,,,FALSE,v1.0
 2.0,08.24.048,08.24,3,Niche,Online Businesses,"Content about monetizing digital products, platforms, or Creator businesses.",,,,FALSE,v1.0
-2.0,08.24.048.095,08.24.048,4,Content Style,E-Commerce,"Covers storefronts, product launches, fulfillment, and digital retail best practices.",45;56,Setup;Tutorials,,FALSE,v1.0
+2.0,08.24.048.095,08.24.048,4,Content Style,Online Store Operations,"Covers storefronts, product launches, fulfillment, and digital retail best practices.",45;56,Setup;Tutorials,,FALSE,v1.0
 2.0,08.24.048.096,08.24.048,4,Content Style,Affiliate Marketing,Explains how creators or businesses earn income by linking or promoting third-party products.,19;52,Guide;Tips,,FALSE,v1.0
 2.0,08.24.049,08.24,3,Niche,Content Monetization,"Teaches how to monetize digital content, platforms, or creator businesses.",,,Excludes platform growth tactics with no monetization focus (10.32.064).,FALSE,v1.0
 2.0,08.24.049.097,08.24.049,4,Content Style,Ad Revenue,Shows how creators generate income through platform-based advertising models.,02;20,Analysis;Hack,,FALSE,v1.0
@@ -319,7 +319,7 @@ taxonomy_version,code,parent_code,level,level_name,label,definition,typical_form
 2.0,08.46,08,2,Category,Careers,"Career navigation content including job prep, resumes, growth decisions, and transitions.",,,,FALSE,v1.0
 2.0,08.46.096,08.46,3,Niche,Career Planning,"Offers guidance on choosing careers, changing jobs, or understanding work-life paths.",,,,FALSE,v1.0
 2.0,08.46.096.185,08.46.096,4,Content Style,College Planning,"Shares advice on choosing schools, applying, financing, or navigating academic life.",19;52,Guide;Tips,,FALSE,v1.0
-2.0,08.46.096.193,08.46.096,4,Content Style,Resume Tips,"Gives advice on structure, tone, formatting, and keyword optimization for job applications.",41;52,Reviews;Tips,,FALSE,v1.0
+2.0,08.46.096.193,08.46.096,4,Content Style,Resumes & Applications,"Gives advice on structure, tone, formatting, and keyword optimization for job applications.",41;52,Reviews;Tips,,FALSE,v1.0
 2.0,08.62,08,2,Category,Real Estate,"Buying, renting, investing in, and working in residential and commercial property.",,,Excludes renovating or decorating one's own home (03.47).,FALSE,v2.0
 2.0,08.62.148,08.62,3,Niche,Real Estate Investing,"Buying property to rent, flip, or hold as an investment.",,,,FALSE,v2.0
 2.0,08.62.148.297,08.62.148,4,Content Style,Rental Property Investing,"Buying and running rental properties, with deal breakdowns and returns.",02;06,Analysis;Case Study,,FALSE,v2.0
@@ -340,7 +340,7 @@ taxonomy_version,code,parent_code,level,level_name,label,definition,typical_form
 2.0,09.26.164.335,09.26.164,4,Content Style,Mobility & Injury Recovery,"Stretching, mobility work, and recovering from injury or soreness.",52;56,Tips;Tutorials,,FALSE,v2.0
 2.0,09.27,09,2,Category,Mental Health,"Content exploring therapy, trauma, emotions, stress management, and inner experience.",,,"Everyday mental health. Suicide, self-harm, and acute crisis content adds 17.52.121 to sensitive_topics.",FALSE,v1.0
 2.0,09.27.054,09.27,3,Niche,Therapy Techniques,Guidance on therapy techniques used in clinical or personal mental health settings.,,,,FALSE,v1.0
-2.0,09.27.054.107,09.27.054,4,Content Style,Counseling Tips,Offers mental health advice or therapy-informed guidance from licensed or experience-based perspectives.,15;52,Explained;Tips,,FALSE,v1.0
+2.0,09.27.054.107,09.27.054,4,Content Style,Coping Skills,Offers mental health advice or therapy-informed guidance from licensed or experience-based perspectives.,15;52,Explained;Tips,,FALSE,v1.0
 2.0,09.27.054.108,09.27.054,4,Content Style,Stress Relief,"Presents exercises, routines, or tools to manage daily tension and emotional overwhelm.",44;56,Session;Tutorials,,FALSE,v1.0
 2.0,09.27.055,09.27,3,Niche,Mindfulness Practices,"Exercises and practices for regulating thoughts, emotions, and awareness.",,,,FALSE,v1.0
 2.0,09.27.055.109,09.27.055,4,Content Style,Meditation,Guides viewers through focused mindfulness practices or techniques to quiet the mind.,19;44,Guide;Session,,FALSE,v1.0
@@ -367,7 +367,7 @@ taxonomy_version,code,parent_code,level,level_name,label,definition,typical_form
 2.0,10,,1,Sector,Social & Community,"Content centered on identity, advocacy, social groups, activism, and shared values or struggles.",,,,FALSE,v1.0
 2.0,10.29,10,2,Category,Personal & Family Life,"Personal narrative content about routine, identity, family, and everyday moments.",,,,FALSE,v1.0
 2.0,10.29.058,10.29,3,Niche,Personal Life,"A person's own life, routines, and thoughts, shared as ongoing personal narrative.",,,The creator's own life as the subject. Travel diaries stay here when the trip is incidental; trip guides go to Sector 14. Excludes maker studio vlogs (06.45.110).,FALSE,v1.0
-2.0,10.29.058.115,10.29.058,4,Content Style,Travel Diaries,"Personal vlogs sharing travel experiences, thoughts, and cultural exploration in real time.",53;59,Tour;Vlogs,,FALSE,v1.0
+2.0,10.29.058.115,10.29.058,4,Content Style,Personal Travel,"Personal vlogs sharing travel experiences, thoughts, and cultural exploration in real time.",53;59,Tour;Vlogs,,FALSE,v1.0
 2.0,10.29.058.116,10.29.058,4,Content Style,Life Updates,"Creator-led content reflecting on personal change, milestones, or ongoing life events.",48;58,Storytime;Update,,FALSE,v1.0
 2.0,10.29.059,10.29,3,Niche,Family Life,"Family life, children, and household dynamics.",,,,FALSE,v1.0
 2.0,10.29.059.117,10.29.059,4,Content Style,Kid Adventures,"Family-focused content showcasing play, learning, and outings from a child's perspective.",27;59,Montage;Vlogs,,FALSE,v1.0
@@ -389,7 +389,7 @@ taxonomy_version,code,parent_code,level,level_name,label,definition,typical_form
 2.0,10.31.063.126,10.31.063,4,Content Style,Group Events,"Recaps or plans events attended by online or IRL communities, often with social value.",32;38,Planning;Recap,,FALSE,v1.0
 2.0,10.32,10,2,Category,Social Media,"Content about growing, navigating, or critiquing platform mechanics and creator strategy.",,,Platform growth and creator strategy. Excludes earning money from content (08.24.049).,FALSE,v1.0
 2.0,10.32.064,10.32,3,Niche,Platform Strategies,"Analyzes platform mechanics, growth strategy, or optimization methods for social media.",,,,FALSE,v1.0
-2.0,10.32.064.127,10.32.064,4,Content Style,TikTok Tips,"Gives tactical advice for growth, visibility, or content success on TikTok.",20;52,Hack;Tips,,FALSE,v1.0
+2.0,10.32.064.127,10.32.064,4,Content Style,TikTok Growth,"Gives tactical advice for growth, visibility, or content success on TikTok.",20;52,Hack;Tips,,FALSE,v1.0
 2.0,10.32.064.128,10.32.064,4,Content Style,YouTube Growth,"Teaches optimization strategies for discoverability, retention, and monetization on YouTube.",19;56,Guide;Tutorials,,FALSE,v1.0
 2.0,10.32.065,10.32,3,Niche,Influencer Content,"Discusses creator economics, brand deals, and sponsorships from an influencer perspective.",,,,FALSE,v1.0
 2.0,10.32.065.129,10.32.065,4,Content Style,Lifestyle Posts,Presents aspirational or everyday content reflecting a creator’s identity and routines.,46;59,Showcase;Vlogs,,FALSE,v1.0
@@ -419,7 +419,7 @@ taxonomy_version,code,parent_code,level,level_name,label,definition,typical_form
 2.0,11.63.151.308,11.63.151,4,Content Style,Hot Takes & Debate Shows,"Opinion-driven sports debate, rankings arguments, and reaction segments.",11;36,Debate;Rant,,FALSE,v2.0
 2.0,11.63.151.309,11.63.151,4,Content Style,Sports Podcasts,"Long-form sports conversation, often with athletes or insiders.",23;33,Interview;Podcasts,,FALSE,v2.0
 2.0,11.63.152,11.63,3,Niche,Fan Culture,"The fan experience: game days, tailgates, rivalries, and collecting gear and memorabilia.",,,,FALSE,v2.0
-2.0,11.63.152.310,11.63.152,4,Content Style,Game Day Vlogs,"Attending games, tailgates, and stadium experiences.",22;59,Highlight;Vlogs,,FALSE,v2.0
+2.0,11.63.152.310,11.63.152,4,Content Style,Game Day & Tailgating,"Attending games, tailgates, and stadium experiences.",22;59,Highlight;Vlogs,,FALSE,v2.0
 2.0,11.63.152.311,11.63.152,4,Content Style,Jerseys & Memorabilia,"Collecting and showing off jerseys, cards, and sports memorabilia.",21;46,Haul;Showcase,,FALSE,v2.0
 2.0,11.63.153,11.63,3,Niche,Fantasy Sports & Drafts,"Fantasy leagues, drafts, trades, and roster analysis.",,,,FALSE,v2.0
 2.0,11.63.153.312,11.63.153,4,Content Style,Fantasy Advice,"Start/sit advice, waiver pickups, and weekly fantasy strategy.",49;52,Strategy;Tips,,FALSE,v2.0
@@ -429,15 +429,15 @@ taxonomy_version,code,parent_code,level,level_name,label,definition,typical_form
 2.0,11.64.154.314,11.64.154,4,Content Style,Fights & Matchups,"Individual fights and fighters: technique, strategy, and matchup analysis.",04;38,Breakdown;Recap,,FALSE,v2.0
 2.0,11.64.154.315,11.64.154,4,Content Style,Training Camps & Fighter Life,"Training camps, weigh-ins, fight week, and fighters' lives outside competition.",03;59,Behind-the-Scenes;Vlogs,,FALSE,v2.0
 2.0,11.64.155,11.64,3,Niche,Pro Wrestling,"Professional wrestling events, storylines, and wrestler culture.",,,,FALSE,v2.0
-2.0,11.64.155.316,11.64.155,4,Content Style,Wrestling Recaps,Recaps and reactions to wrestling shows and pay-per-views.,38;66,Recap;Reaction,,FALSE,v2.0
+2.0,11.64.155.316,11.64.155,4,Content Style,Matches & Events,Recaps and reactions to wrestling shows and pay-per-views.,38;66,Recap;Reaction,,FALSE,v2.0
 2.0,11.64.155.317,11.64.155,4,Content Style,Wrestling Storylines,"Analysis of feuds, characters, and booking decisions.",08;12,Commentary;Deep Dive,,FALSE,v2.0
 2.0,11.65,11,2,Category,Motorsport,"Professional racing such as Formula 1, NASCAR, IndyCar, rally, and motorcycle racing.",,,Professional racing. Excludes car reviews and builds (Sector 15) and sim racing (07.60.141).,FALSE,v2.0
 2.0,11.65.156,11.65,3,Niche,Motorsport Racing,"Race coverage, teams, drivers, and the technology of professional racing.",,,,FALSE,v2.0
-2.0,11.65.156.318,11.65.156,4,Content Style,Race Recaps,"Race highlights, results, and championship implications.",22;38,Highlight;Recap,,FALSE,v2.0
+2.0,11.65.156.318,11.65.156,4,Content Style,Races & Results,"Race highlights, results, and championship implications.",22;38,Highlight;Recap,,FALSE,v2.0
 2.0,11.65.156.319,11.65.156,4,Content Style,Teams & Drivers,Behind-the-scenes stories of racing teams and drivers.,23;65,Interview;Documentary,,FALSE,v2.0
 2.0,11.66,11,2,Category,Action & Outdoor Sports,"Board sports, cycling, climbing, and other individual action or endurance sports.",,,,FALSE,v2.0
 2.0,11.66.157,11.66,3,Niche,Board Sports,"Skateboarding, surfing, snowboarding, and skiing.",,,,FALSE,v2.0
-2.0,11.66.157.320,11.66.157,4,Content Style,Riding & Sessions,"Skate, surf, and snow riding: sessions, lines, and standout tricks.",10;27,Compilation;Montage,,FALSE,v2.0
+2.0,11.66.157.320,11.66.157,4,Content Style,Board Riding,"Skate, surf, and snow riding: sessions, lines, and standout tricks.",10;27,Compilation;Montage,,FALSE,v2.0
 2.0,11.66.157.321,11.66.157,4,Content Style,Tricks & Technique,How specific tricks are done and how to learn to land them.,13;56,Demo;Tutorials,,FALSE,v2.0
 2.0,11.66.158,11.66,3,Niche,Cycling & Climbing,"Road and mountain cycling, bouldering, and climbing.",,,,FALSE,v2.0
 2.0,11.66.158.322,11.66.158,4,Content Style,Cycling,"Ride vlogs, gear reviews, and race coverage for road and mountain cycling.",41;59,Reviews;Vlogs,,FALSE,v2.0
@@ -449,7 +449,7 @@ taxonomy_version,code,parent_code,level,level_name,label,definition,typical_form
 2.0,12.35,12,2,Category,Pet Care,"Practical care content focused on feeding, grooming, health, and pet behavior.",,,,FALSE,v1.0
 2.0,12.35.070,12.35,3,Niche,Pet Health,"Explains pet nutrition, health conditions, or veterinary routines for animals.",,,,FALSE,v1.0
 2.0,12.35.070.139,12.35.070,4,Content Style,Diet Advice,"Gives nutritional guidance tailored to lifestyle, goals, or health conditions.",19;52,Guide;Tips,,FALSE,v1.0
-2.0,12.35.070.140,12.35.070,4,Content Style,Vet Tips,"Shares veterinary knowledge about animal care, illness, and best practices.",15;35,Explained;Q&A,,FALSE,v1.0
+2.0,12.35.070.140,12.35.070,4,Content Style,Preventive Care & Vet Visits,"Shares veterinary knowledge about animal care, illness, and best practices.",15;35,Explained;Q&A,,FALSE,v1.0
 2.0,12.35.071,12.35,3,Niche,Pet Grooming,"Demonstrates washing, clipping, or styling pets with grooming tools and products.",,,,FALSE,v1.0
 2.0,12.35.071.141,12.35.071,4,Content Style,Dog Grooming,"Demonstrates how to wash, trim, or maintain dogs’ coats, nails, and hygiene.",56;59,Tutorials;Vlogs,,FALSE,v1.0
 2.0,12.35.071.142,12.35.071,4,Content Style,Cat Grooming,"Shows techniques and products for caring for feline fur, nails, or health.",13;52,Demo;Tips,,FALSE,v1.0
@@ -497,8 +497,8 @@ taxonomy_version,code,parent_code,level,level_name,label,definition,typical_form
 2.0,13.41.083.165,13.41.083,4,Content Style,Nature & Landscapes,"Natural life, landscapes, and ecosystems told through cinematic storytelling.",28;65,Observation;Documentary,,FALSE,v1.0
 2.0,13.41.083.166,13.41.083,4,Content Style,Space & Cosmos,"Space, astronomy, and discovery told through narrative or visual storytelling.",15;65,Explained;Documentary,,FALSE,v1.0
 2.0,13.41.084,13.41,3,Niche,Science News,"Summarizes science news, research, or discovery for public understanding.",,,,FALSE,v1.0
-2.0,13.41.084.167,13.41.084,4,Content Style,Research Updates,"Summarizes recent findings, papers, or breakthroughs from academic or lab environments.",43;58,Roundup;Update,,FALSE,v1.0
-2.0,13.41.084.168,13.41.084,4,Content Style,Breakthrough Reports,"Highlights major scientific, medical, or tech advancements with broad relevance.",04;58,Breakdown;Update,,FALSE,v1.0
+2.0,13.41.084.167,13.41.084,4,Content Style,New Research,"Summarizes recent findings, papers, or breakthroughs from academic or lab environments.",43;58,Roundup;Update,,FALSE,v1.0
+2.0,13.41.084.168,13.41.084,4,Content Style,Breakthroughs,"Highlights major scientific, medical, or tech advancements with broad relevance.",04;58,Breakdown;Update,,FALSE,v1.0
 2.0,14,,1,Sector,Travel,"Movement across geographies: vlogs, city guides, cultural immersion. Often overlaps with Lifestyle.",,,,FALSE,v1.0
 2.0,14.42,14,2,Category,Leisure Travel,"Aesthetic or experience-based travel — food, scenery, luxury, or local immersion.",,,The trip or destination as the subject. Excludes life vlogs where travel is incidental (10.29.058).,FALSE,v1.0
 2.0,14.42.085,14.42,3,Niche,Vacation Planning,"Helps plan trips, manage logistics, or prepare for travel experiences.",,,,FALSE,v1.0
@@ -510,7 +510,7 @@ taxonomy_version,code,parent_code,level,level_name,label,definition,typical_form
 2.0,14.43,14,2,Category,Adventure Travel,"High-energy travel with risk or challenge — climbing, hiking, backpacking, exploring.",,,,FALSE,v1.0
 2.0,14.43.087,14.43,3,Niche,Outdoor Adventures,"Covers adventure travel including hikes, extreme terrain, and survival trips.",,,,FALSE,v1.0
 2.0,14.43.087.173,14.43.087,4,Content Style,Hiking Trails,"Documents or reviews nature hikes, trail difficulty, and scenic or survival details.",41;59,Reviews;Vlogs,,FALSE,v1.0
-2.0,14.43.087.174,14.43.087,4,Content Style,Camping Guides,"Teaches how to prepare for and enjoy outdoor overnight trips, gear, and site selection.",19;52,Guide;Tips,,FALSE,v1.0
+2.0,14.43.087.174,14.43.087,4,Content Style,Camping,"Teaches how to prepare for and enjoy outdoor overnight trips, gear, and site selection.",19;52,Guide;Tips,,FALSE,v1.0
 2.0,14.43.088,14.43,3,Niche,Eco Travel,Highlights low-impact or sustainable travel options and eco-focused destinations.,,,,FALSE,v1.0
 2.0,14.43.088.175,14.43.088,4,Content Style,Wilderness Trips,Explores remote or challenging natural environments for recreation or immersion.,07;59,Challenge;Vlogs,,FALSE,v1.0
 2.0,14.43.088.176,14.43.088,4,Content Style,Sustainable Tours,Highlights eco-conscious travel experiences with low-impact or community-centered design.,41;53,Reviews;Tour,,FALSE,v1.0
@@ -519,7 +519,7 @@ taxonomy_version,code,parent_code,level,level_name,label,definition,typical_form
 2.0,14.44.089.177,14.44.089,4,Content Style,Booking Platforms,"Explains or compares digital tools for flights, stays, and itinerary planning.",09;20,Comparison;Hack,,FALSE,v1.0
 2.0,14.44.089.178,14.44.089,4,Content Style,Tour Operators,"Reviews travel providers, guided experiences, and package design for travelers.",09;41,Comparison;Reviews,,FALSE,v1.0
 2.0,14.44.090,14.44,3,Niche,Tourism Trends,"Tracks trends and forecasts in global travel, marketing, or tourism strategy.",,,,FALSE,v1.0
-2.0,14.44.090.179,14.44.090,4,Content Style,Destination Guides,"Offers localized tips, activities, or cultural notes for travel planning.",19;24,Guide;Lists,,FALSE,v1.0
+2.0,14.44.090.179,14.44.090,4,Content Style,Destinations,"Offers localized tips, activities, or cultural notes for travel planning.",19;24,Guide;Lists,,FALSE,v1.0
 2.0,14.44.090.180,14.44.090,4,Content Style,Travel Tech,"Reviews gadgets, apps, or tools designed to enhance travel efficiency or safety.",41;57,Reviews;Unboxing,,FALSE,v1.0
 2.0,15,,1,Sector,Automotive,"Cars, trucks, EVs, mods, test drives, comparisons. Tech-adjacent but vehicle-specific.",,,,FALSE,v1.0
 2.0,15.53,15,2,Category,Cars & Car Culture,"Cars as products and culture: reviews, test drives, specs, classic cars, buying, and ownership.",,,,FALSE,v1.0
@@ -531,7 +531,7 @@ taxonomy_version,code,parent_code,level,level_name,label,definition,typical_form
 2.0,15.53.132.264,15.53.132,4,Content Style,Car Comparisons,Head-to-head comparisons of competing models or trims.,09;41,Comparison;Reviews,,FALSE,v2.0
 2.0,15.53.133,15.53,3,Niche,Car Buying & Ownership,"Advice on choosing, financing, and owning a car.",,,,FALSE,v2.0
 2.0,15.53.133.265,15.53.133,4,Content Style,Car Buying Advice,"How to choose, negotiate, finance, or lease a vehicle.",19;52,Guide;Tips,,FALSE,v2.0
-2.0,15.53.133.266,15.53.133,4,Content Style,Ownership Diaries,"Long-term updates on owning a specific car, including costs and problems.",58;59,Update;Vlogs,,FALSE,v2.0
+2.0,15.53.133.266,15.53.133,4,Content Style,Long-Term Ownership,"Long-term updates on owning a specific car, including costs and problems.",58;59,Update;Vlogs,,FALSE,v2.0
 2.0,15.57,15,2,Category,Car Care & Modding,"Maintaining, repairing, detailing, and modifying vehicles, from routine care to full builds.",,,,FALSE,v2.0
 2.0,15.57.128,15.57,3,Niche,Car Maintenance & Repair,"Routine maintenance, DIY repair, and cleaning or detailing of personal vehicles.",,,,FALSE,v2.0
 2.0,15.57.128.255,15.57.128,4,Content Style,DIY Car Repairs,Step-by-step repairs and maintenance a driver can do at home.,14;56,DIY;Tutorials,,FALSE,v2.0
@@ -541,7 +541,7 @@ taxonomy_version,code,parent_code,level,level_name,label,definition,typical_form
 2.0,15.57.129.258,15.57.129,4,Content Style,Performance Mods,"Engine, suspension, and other upgrades, often tested before and after.",13;50,Demo;Test,,FALSE,v2.0
 2.0,15.58,15,2,Category,EVs & Future Mobility,"Electric vehicles, charging, autonomy, and the technology and industry shaping how people get around.",,,,FALSE,v2.0
 2.0,15.58.130,15.58,3,Niche,Electric Vehicles,"Electric and hybrid vehicles: reviews, ownership, charging, and range.",,,,FALSE,v2.0
-2.0,15.58.130.259,15.58.130,4,Content Style,EV Reviews,Reviews and comparisons of electric and hybrid models.,09;41,Comparison;Reviews,,FALSE,v2.0
+2.0,15.58.130.259,15.58.130,4,Content Style,EV Models,Reviews and comparisons of electric and hybrid models.,09;41,Comparison;Reviews,,FALSE,v2.0
 2.0,15.58.130.260,15.58.130,4,Content Style,EV Ownership & Charging,"Living with an EV: charging, range, road trips, and running costs.",52;59,Tips;Vlogs,,FALSE,v2.0
 2.0,15.58.131,15.58,3,Niche,Autonomy & Mobility Tech,"Self-driving systems, driver assistance, and the business and technology of mobility.",,,,FALSE,v2.0
 2.0,15.58.131.261,15.58.131,4,Content Style,Self-Driving Tech,Demonstrations and explanations of autonomous and driver-assist systems.,13;15,Demo;Explained,,FALSE,v2.0
@@ -550,7 +550,7 @@ taxonomy_version,code,parent_code,level,level_name,label,definition,typical_form
 2.0,16.51,16,2,Category,Religion & Spirituality,"Content involving belief, practice, faith, theology, and spiritual reflection.",,,,FALSE,v1.0
 2.0,16.51.111,16.51,3,Niche,Scripture & Theology,"Study and explanation of sacred texts, doctrine, and theological ideas across traditions.",,,,FALSE,v2.0
 2.0,16.51.111.207,16.51.111,4,Content Style,Scripture Study,Close reading and verse-by-verse study of a sacred text.,04;37,Breakdown;Reading,,FALSE,v2.0
-2.0,16.51.111.208,16.51.111,4,Content Style,Theology Explainers,"Accessible explanations of doctrine, denominations, and theological debates.",12;15,Deep Dive;Explained,,FALSE,v2.0
+2.0,16.51.111.208,16.51.111,4,Content Style,Theology & Doctrine,"Accessible explanations of doctrine, denominations, and theological debates.",12;15,Deep Dive;Explained,,FALSE,v2.0
 2.0,16.51.112,16.51,3,Niche,Sermons & Teaching,"Preaching, religious teaching, and devotional instruction delivered by clergy or lay teachers.",,,,FALSE,v2.0
 2.0,16.51.112.209,16.51.112,4,Content Style,Sermons,"Sermons and religious talks, in full or excerpted.",10;22,Compilation;Highlight,,FALSE,v2.0
 2.0,16.51.112.210,16.51.112,4,Content Style,Daily Devotionals,"Short daily readings, reflections, or encouragement rooted in a faith tradition.",26;37,Mini;Reading,,FALSE,v2.0
@@ -559,11 +559,11 @@ taxonomy_version,code,parent_code,level,level_name,label,definition,typical_form
 2.0,16.51.113.212,16.51.113,4,Content Style,Worship Music,"Worship songs, choirs, and recorded or live services.",30;40,Performance;Recital,,FALSE,v2.0
 2.0,16.51.114,16.51,3,Niche,Faith Testimonies,"First-person accounts of conversion, doubt, deconstruction, or a changing relationship with faith.",,,,FALSE,v2.0
 2.0,16.51.114.213,16.51.114,4,Content Style,Conversion & Testimony Stories,"Accounts of coming to faith, changing faith, or a defining spiritual experience.",23;48,Interview;Storytime,,FALSE,v2.0
-2.0,16.51.114.214,16.51.114,4,Content Style,Faith Journey Vlogs,"Ongoing personal documentation of faith, doubt, or deconstruction over time.",58;59,Update;Vlogs,,FALSE,v2.0
+2.0,16.51.114.214,16.51.114,4,Content Style,Faith Journeys,"Ongoing personal documentation of faith, doubt, or deconstruction over time.",58;59,Update;Vlogs,,FALSE,v2.0
 2.0,16.55,16,2,Category,Religious Life & Culture,"How belief shapes daily life, holidays, family, and community, including interfaith and comparative religion.",,,,FALSE,v2.0
 2.0,16.55.115,16.55,3,Niche,Holidays & Observances,"Religious holidays, fasts, rites, and the traditions around them.",,,,FALSE,v2.0
 2.0,16.55.115.215,16.55.115,4,Content Style,Holiday Traditions,"How a religious holiday is celebrated: food, rituals, decorations, and meaning.",15;59,Explained;Vlogs,,FALSE,v2.0
-2.0,16.55.115.216,16.55.115,4,Content Style,Fasting & Observance Logs,"Day-by-day documentation of a fast, pilgrimage, or religious observance.",07;59,Challenge;Vlogs,,FALSE,v2.0
+2.0,16.55.115.216,16.55.115,4,Content Style,Fasting & Observance,"Day-by-day documentation of a fast, pilgrimage, or religious observance.",07;59,Challenge;Vlogs,,FALSE,v2.0
 2.0,16.55.116,16.55,3,Niche,Interfaith & Comparative Religion,Content that compares traditions or brings people of different faiths into conversation.,,,,FALSE,v2.0
 2.0,16.55.116.217,16.55.116,4,Content Style,Comparative Religion,Side-by-side explanations of beliefs and practices across traditions.,09;15,Comparison;Explained,,FALSE,v2.0
 2.0,16.55.116.218,16.55.116,4,Content Style,Interfaith Dialogue,Conversations between people of different faiths or between believers and non-believers.,11;23,Debate;Interview,,FALSE,v2.0
@@ -593,10 +593,10 @@ taxonomy_version,code,parent_code,level,level_name,label,definition,typical_form
 2.0,17.56,17,2,Category,Brand-Safety Restricted Topics,"Legal but advertiser-sensitive subjects such as gambling, alcohol and cannabis, and firearms.",,,,TRUE,v2.0
 2.0,17.56.124,17.56,3,Niche,Gambling & Betting,"Sports betting, casino play, and other wagering, including picks, streams, and strategy.",,,The subject path is usually Sports Talk & Debate (11.63.151) for betting picks or Casino Games & Poker (07.21.168).,TRUE,v2.0
 2.0,17.56.124.233,17.56.124,4,Content Style,Sports Betting Picks,"Betting picks, odds analysis, and parlay breakdowns.",02;49,Analysis;Strategy,,TRUE,v2.0
-2.0,17.56.124.234,17.56.124,4,Content Style,Casino & Gambling Streams,"Live or recorded casino play, slots, poker, and other wagering.",07;44,Challenge;Session,,TRUE,v2.0
+2.0,17.56.124.234,17.56.124,4,Content Style,Casino & Slots,"Live or recorded casino play, slots, poker, and other wagering.",07;44,Challenge;Session,,TRUE,v2.0
 2.0,17.56.125,17.56,3,Niche,Alcohol & Cannabis,"Content centered on alcohol or cannabis products, culture, and use.",,,The subject path is usually Drinks & Cocktails (03.08.169) or Cannabis Culture (03.54.170).,TRUE,v2.0
 2.0,17.56.125.235,17.56.125,4,Content Style,Alcohol Reviews & Culture,"Reviews and culture around beer, wine, spirits, and cocktails.",41;56,Reviews;Tutorials,,TRUE,v2.0
-2.0,17.56.125.236,17.56.125,4,Content Style,Cannabis Culture,"Cannabis products, legalization, and lifestyle content.",41;59,Reviews;Vlogs,,TRUE,v2.0
+2.0,17.56.125.236,17.56.125,4,Content Style,Cannabis Content,"Cannabis products, legalization, and lifestyle content.",41;59,Reviews;Vlogs,,TRUE,v2.0
 2.0,17.56.126,17.56,3,Niche,Firearms & Weapons,"Firearms, hunting, and shooting sports, including reviews and instruction.",,,The subject path is usually Hunting & Shooting Sports (11.66.167).,TRUE,v2.0
-2.0,17.56.126.237,17.56.126,4,Content Style,Firearms Reviews,"Reviews, comparisons, and demonstrations of firearms and accessories.",13;41,Demo;Reviews,,TRUE,v2.0
-2.0,17.56.126.238,17.56.126,4,Content Style,Hunting & Shooting Sports,"Hunting trips, competitive shooting, and range instruction.",56;59,Tutorials;Vlogs,,TRUE,v2.0
+2.0,17.56.126.237,17.56.126,4,Content Style,Firearms & Accessories,"Reviews, comparisons, and demonstrations of firearms and accessories.",13;41,Demo;Reviews,,TRUE,v2.0
+2.0,17.56.126.238,17.56.126,4,Content Style,Hunting & Shooting Content,"Hunting trips, competitive shooting, and range instruction.",56;59,Tutorials;Vlogs,,TRUE,v2.0
