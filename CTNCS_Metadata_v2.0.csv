@@ -8,7 +8,7 @@ secondary_format,No,"A Format code (01 to 74, except retired 25)",A second struc
 unlisted_format,No,"A Format code (01 to 74, except retired 25)",The structure the release actually uses when it is not one of the primary Sub-Niche's common formats. The ID carries the closest listed format.,"Logs the gap so the format can be considered for that Sub-Niche at the next revision (Rule 6.10, Section 12). Leave empty when the structure is listed."
 platform_format,No,"Free text: Shorts, Reels, Story, Carousel, Episode",The platform's own surface or container for the release.,Context only; never changes the CTNCS ID.
 language,No,"ISO 639-1 code (en, es, pt...)",Primary spoken or written language of the release.,
-region,No,"ISO 3166-1 alpha-2 code (US, GB, BR...)",Creator's home market or the release's target region.,
+region,No,"ISO 3166-1 alpha-2 code (US, GB, BR...)","The release's target region (if unknown, the creator's home market).",
 content_title,No,Text,The release's published title.,
 creator_handle,No,Text,The publishing account's handle.,Identifies the creator for joins; never used to classify.
 publish_date,No,ISO 8601 date (YYYY-MM-DD),Date the release was first published.,
