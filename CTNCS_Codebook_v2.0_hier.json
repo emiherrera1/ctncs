@@ -13017,7 +13017,7 @@
       "children": [
         {
           "code": "16.51",
-          "label": "Religion & Spirituality",
+          "label": "Faith & Practice",
           "level": 2,
           "level_name": "Category",
           "definition": "Content involving belief, practice, faith, theology, and spiritual reflection.",
@@ -13558,7 +13558,7 @@
       "children": [
         {
           "code": "17.52",
-          "label": "Sensitive Topics",
+          "label": "Crisis, Trauma & Loss",
           "level": 2,
           "level_name": "Category",
           "definition": "High-emotion or risk-related content — trauma, grief, mental illness, addiction.",
@@ -14262,7 +14262,7 @@
                 },
                 {
                   "code": "17.56.126.238",
-                  "label": "Hunting & Shooting Sports",
+                  "label": "Hunting & Firearm Use",
                   "level": 4,
                   "level_name": "Sub-Niche",
                   "definition": "Covers hunting trips, competitive shooting, and range instruction.",
