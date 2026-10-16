@@ -2257,10 +2257,10 @@
             },
             {
               "code": "03.08.127",
-              "label": "Taste Tests",
+              "label": "Ready-Made Food",
               "level": 3,
               "level_name": "Niche",
-              "definition": "Trying, ranking, and reacting to foods, menus, and products, usually on camera and often against each other.",
+              "definition": "Food bought rather than cooked at home: fast food, restaurant meals, and packaged products, tried and judged on taste.",
               "scope_note": "Excludes restaurant and food travel guides (14.42.086).",
               "children": [
                 {

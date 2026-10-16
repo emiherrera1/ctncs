@@ -54,7 +54,7 @@ Validation regex:
 |---|---|---|
 | Sector | 03 | Lifestyle |
 | Category | 08 | Food & Cooking |
-| Niche | 127 | Taste Tests |
+| Niche | 127 | Ready-Made Food |
 | Sub-Niche | 253 | Fast Food |
 | Format | 07 | Challenge |
 
