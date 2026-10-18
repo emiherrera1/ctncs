@@ -35,7 +35,7 @@ ALLOWED = {'Technical Analysis', 'Fundamental Analysis'}
 
 def load(path):
     rows = list(csv.DictReader(open(path, encoding='utf-8')))
-    fmts = {r['code']: r for r in csv.DictReader(open(os.path.join(ROOT, 'CTNCS_Formats_v2.0.csv'), encoding='utf-8'))}
+    fmts = {r['code']: r for r in csv.DictReader(open(os.path.join(ROOT, 'CTNCS_Formats_v2.1.csv'), encoding='utf-8'))}
     return rows, fmts
 
 
@@ -83,7 +83,7 @@ def check_codebook(rows, fmts):
 def check_id(cid, rows, fmts=None):
     """Return a list of problems with one CTNCS ID (empty if valid)."""
     if fmts is None:
-        fmts = load(os.path.join(ROOT, 'CTNCS_Codebook_v2.0.csv'))[1]
+        fmts = load(os.path.join(ROOT, 'CTNCS_Codebook_v2.1.csv'))[1]
     if not ID_RE.match(cid):
         return [f"{cid}: does not match SS.CC.NNN.SSS.FF(.RRR)"]
     parts = cid.split('.')
@@ -98,7 +98,7 @@ def check_id(cid, rows, fmts=None):
 
 
 def main(argv):
-    path = os.path.join(ROOT, 'CTNCS_Codebook_v2.0.csv')
+    path = os.path.join(ROOT, 'CTNCS_Codebook_v2.1.csv')
     rows, fmts = load(path)
     if argv[:1] == ['--id']:
         problems = [p for cid in argv[1:] for p in check_id(cid, rows, fmts)]

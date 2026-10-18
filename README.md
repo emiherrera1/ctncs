@@ -2,7 +2,7 @@
 
 A classification standard for digital content.
 
-**Version:** v2.0
+**Version:** v2.1
 **Author:** Emily Herrera
 **License:** Creative Commons Attribution 4.0 International (CC BY 4.0)
 **Last updated:** October 2026
@@ -17,12 +17,12 @@ CTNCS classifies a single content release (a video, post, episode, or article) b
 
 The subject tree has four levels: Sector, Category, Niche, and Sub-Niche. Each Sub-Niche lists the formats common to it, and the Format must be one of those. A Release Number is optional.
 
-| Segment | Level | Digits | Count (v2.0) |
+| Segment | Level | Digits | Count (v2.1) |
 |---|---|---|---|
 | SS | Sector | 2 | 17 |
 | CC | Category | 2 | 68 |
-| NNN | Niche | 3 | 169 |
-| SSS | Sub-Niche | 3 | 347 |
+| NNN | Niche | 3 | 199 |
+| SSS | Sub-Niche | 3 | 414 |
 | FF | Format | 2 | 73 active (74 codes); 3 to 6 per Sub-Niche |
 | RRR | Release Number (optional) | 3 | assigned by the dataset owner |
 
@@ -62,10 +62,12 @@ Validation regex:
 
 | File | Contents |
 |---|---|
-| `CTNCS_Codebook_v2.0.csv` / `.tsv` | All 601 tree nodes (Levels 1 to 4), flat, with `code` and `parent_code` |
-| `CTNCS_Codebook_v2.0_hier.json` | The same tree, nested |
-| `CTNCS_Formats_v2.0.csv` | The 74 Format codes and definitions, with `status` (73 active, 1 retired) and `universal` (valid under every Sub-Niche) |
-| `CTNCS_Metadata_v2.0.csv` | Release metadata fields (platform, made_for_kids, release_mode, secondary_path, sensitive_topics, unlisted_format, and others) |
+| `CTNCS_Codebook_v2.1.csv` / `.tsv` | All 698 tree nodes (Levels 1 to 4), flat, with `code` and `parent_code` |
+| `CTNCS_Codebook_v2.1_hier.json` | The same tree, nested |
+| `CTNCS_Formats_v2.1.csv` | The 74 Format codes and definitions, with `status` (73 active, 1 retired) and `universal` (valid under every Sub-Niche) |
+| `CTNCS_Metadata_v2.1.csv` | Release metadata fields (platform, made_for_kids, release_mode, secondary_path, sensitive_topics, unlisted_format, and others) |
+| `CTNCS_Reserved_Codes_v2.1.csv` | Codes that are reserved or retired and will never be reused (Niche 163, Sub-Niches 332 and 333, Format 25) |
+| `CTNCS_Crosswalk_v1.0_to_v2.1.csv` | Every v1.0 node code mapped to its current code, with old and new labels and the type of change, plus the recoded and retired Formats |
 | `v1.0/` | The September 2025 release, kept for reference |
 
 ### Codebook columns
@@ -81,6 +83,7 @@ Validation regex:
 | `example_concepts` | Sub-Niches only; one example concept per common format, in the same order |
 | `scope_note` | Inclusions, exclusions, and where neighboring content belongs |
 | `sensitive_topics_only` | TRUE for Sector 17 nodes, which are recorded only in the `sensitive_topics` field |
+| `status` | `active` for every node in the codebook. Reserved and retired codes are listed in the Reserved Codes file |
 | `added_in` | Release in which the node was first defined. `v1.0` includes nodes listed in the v1.0 codebook but first placed in the tree in v2.0 |
 
 The flat files preserve the hierarchy through `parent_code`, so they can be loaded into any table or database.
@@ -103,4 +106,4 @@ See [CHANGELOG.md](CHANGELOG.md). To propose a new node or report a problem, ope
 
 ## How to cite CTNCS
 
-Herrera, Emily. CTNCS: Content Terminal Niche Classification Standard, v2.0 (2026).
+Herrera, Emily. CTNCS: Content Terminal Niche Classification Standard, v2.1 (2026).

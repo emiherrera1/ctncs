@@ -1,0 +1,5 @@
+code,level,kind,label,status,since,note
+01.67.163,3,Niche,Kid-Hosted Shows,reserved,v2.0,"Dropped before release: classified by host age, not subject. Code will not be reused."
+01.67.163.332,4,Sub-Niche,(under Kid-Hosted Shows),reserved,v2.0,Dropped with Niche 163. Code will not be reused.
+01.67.163.333,4,Sub-Niche,(under Kid-Hosted Shows),reserved,v2.0,Dropped with Niche 163. Code will not be reused.
+25,format,Format,Live,retired,v2.0,"Live is a release mode, not a structure; recorded in release_mode. Code will not be reused."

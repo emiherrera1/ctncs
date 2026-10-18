@@ -1,5 +1,36 @@
 # CTNCS Changelog
 
+## v2.1 — October 2026
+
+Minor release (new nodes and scope notes, Section 13 of the manual). No code is moved, merged, retired, or reused, so every v2.0 ID remains valid. The First Edition of the CTNCS Manual (titled for CTNCS 2.0) includes these additions in its codebook and change log.
+
+### Tree
+- 30 Niches (171 to 200) and 67 Sub-Niches (350 to 416) added, with 285 example concepts. Totals: 17 Sectors, 68 Categories, 199 Niches, 414 Sub-Niches (698 nodes); 1,905 example concepts.
+- Fitness (03.07): Pilates & Barre (03.07.171: Mat Pilates, Reformer Pilates & Barre); Functional & Hybrid Training (03.07.172: CrossFit, HYROX & Hybrid Racing); Home Gym & Equipment (03.07.173: Home Gym Builds, Fitness Equipment); Walking & Low-Impact (03.07.174: Walking Workouts, Gentle & Chair Workouts).
+- Food & Cooking (03.08): Meal Prep (03.08.015.358), High-Protein Meals (03.08.015.359) under Dishes & Meals; World Cuisines (03.08.175: Traditional & Home-Style Dishes, Fusion Cooking).
+- Fashion & Beauty (03.09): Haircare (03.09.176: Hair Styling, Hair Health & Color); Fragrance (03.09.177: Perfumes & Colognes, Fragrance Collecting); Nails (03.09.178: Nail Art, At-Home Manicures); Men's Grooming (03.09.179: Beards & Shaving, Body Care & Grooming Kits); Personal Style (03.09.180: Everyday Outfits, Capsule Wardrobes); Secondhand & Resale Fashion (03.09.181: Thrifting, Resale Apps & Vintage); Jewelry & Accessories (03.09.182: Jewelry Styling, Bags & Watches).
+- Home & Garden (03.47): Gardening (03.47.183: Vegetable Gardening, Houseplants & Flowers); Cleaning & Organization (03.47.184: Home Cleaning, Decluttering & Storage); Interior Design & Decor (03.47.185: Room Decor, Design Styles).
+- Consumer Tech (04.10): Audio (04.10.186: Headphones & Earbuds, Speakers & Home Audio); Computers & Laptops (04.10.187: Laptops & Tablets, PC Building & Desk Setups); Cameras & Creator Gear (04.10.188: Cameras & Lenses, Lighting & Microphones).
+- Personal Finance (08.25): Credit & Credit Cards (08.25.189: Credit Scores, Credit Cards & Rewards); Frugal Living (08.25.051.390), Deals & Discounts (08.25.051.391) under Saving Strategies; Taxes (08.25.190: Tax Filing, Self-Employed Taxes); Insurance (08.25.191: Health Insurance, Auto, Home & Life Insurance).
+- Entrepreneurship (08.23): Side Hustles (08.23.192: Side Hustle Ideas, Gig & Freelance Work); DTC & Consumer Brands (08.23.193: Brand Building, Product Development); Small Business Life (08.23.194: Daily Operations, Starting a Small Business).
+- Digital Ventures (08.24): Brand Deals & Sponsorships (08.24.049.402), Merch & Creator Products (08.24.049.403) under Content Monetization.
+- Physical Health (09.26): Gut Health (09.26.052.404) under Nutrition; Weight Management (09.26.195: Weight Loss Journeys, Weight-Loss Medications); Longevity & Healthspan (09.26.196: Aging Science, Biohacking & Health Tracking).
+- Medical Health (09.49): Women's Health (09.49.197: Menstrual & Hormonal Health, Fertility, Pregnancy & Menopause).
+- Mental Health (09.27): Anxiety & Depression (09.27.198: Anxiety, Depression); Neurodivergence (09.27.199: ADHD, Autism); Burnout (09.27.200: Workplace Burnout, Creator Burnout).
+- Not added because already covered: home buying and mortgages (08.62.149), sponsored content (10.32.065.130), snack and packaged-food reviews (03.08.127.254), stretching and mobility (09.26.164.335).
+
+### Scope notes
+- Yoga: as exercise 03.07.013; as a spiritual practice 09.28.057.113.
+- Running: for general fitness 03.07.053.105; training to race 11.34.068.135.
+- Woodworking: lessons 02.05.010.019; as part of renovating one's own home 03.47.102; a maker's process and finished pieces 06.45.
+- Brand deals: the sponsored content 10.32.065.130; rates, pitching, and sponsorship income 08.24.049.402.
+- Also updated: 03.47.102, 03.08.127.254, and Category 08.25 (points home buying to 08.62.149 and investing to 08.22).
+
+### Files
+- Files renamed `_v2.1`. New `status` column (`active` for every node).
+- New `CTNCS_Reserved_Codes_v2.1.csv`: Niche 163 and Sub-Niches 332 and 333 (reserved), Format 25 Live (retired). Codes are never reused.
+- New `CTNCS_Crosswalk_v1.0_to_v2.1.csv`: all 267 v1.0 nodes mapped to their current codes with the type of change, plus the recoded Formats (Fancam 63, ASMR 61, Mashups 62) and retired Live.
+
 ## v2.0 — October 2026
 
 First edition of the CTNCS Manual, the normative text for this release (definitions, assignment rules, worked examples, governance, and the full codebook). v1.0 was released as a codebook only.
